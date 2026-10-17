@@ -1,0 +1,5 @@
+# Aura "download credentials" file; copy to Neo4j-<id>-Created-<date>.txt (gitignored)
+NEO4J_URI=neo4j+s://<id>.databases.neo4j.io
+NEO4J_USERNAME=<id>
+NEO4J_PASSWORD=CHANGE_ME
+NEO4J_DATABASE=<id>

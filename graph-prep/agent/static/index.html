@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Joveo Support Agent</title>
+<style>
+:root{--bg:#f6f7fb;--card:#fff;--ink:#1c2033;--mute:#6b7190;--line:#e3e6f0;--brand:#4f46e5;--user:#4f46e5;--ok:#0f9d58;--warn:#b45309}
+@media (prefers-color-scheme:dark){:root{--bg:#12141f;--card:#1b1e2e;--ink:#e8eaf6;--mute:#9aa0c0;--line:#2b3048;--brand:#818cf8;--user:#4f46e5}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif;height:100vh;display:flex}
+main{flex:1;display:flex;flex-direction:column;min-width:0}aside{width:280px;border-left:1px solid var(--line);background:var(--card);padding:16px;overflow:auto}
+header{padding:14px 20px;border-bottom:1px solid var(--line);background:var(--card);display:flex;justify-content:space-between;align-items:center}
+h1{font-size:16px;margin:0}.dots{font-size:12px;color:var(--mute)}.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:#bbb;margin:0 4px 0 10px}.dot.on{background:var(--ok)}
+#log{flex:1;overflow:auto;padding:20px;display:flex;flex-direction:column;gap:12px}
+.msg{max-width:760px;padding:10px 14px;border-radius:12px;background:var(--card);border:1px solid var(--line);white-space:normal;overflow-wrap:anywhere}
+.msg.user{align-self:flex-end;background:var(--user);color:#fff;border-color:var(--user)}
+.src{margin-top:8px;display:flex;flex-wrap:wrap;gap:6px}.chip{font-size:12px;border:1px solid var(--line);border-radius:999px;padding:2px 9px;color:var(--mute)}
+.ticket{margin-top:10px;border:1px dashed var(--brand);border-radius:10px;padding:10px;font-size:14px}.ticket b{display:block}
+button{font:inherit;cursor:pointer;border-radius:8px;border:1px solid var(--brand);background:var(--brand);color:#fff;padding:7px 14px}button.ghost{background:transparent;color:var(--brand)}button:disabled{opacity:.5;cursor:default}
+form{display:flex;gap:8px;padding:14px 20px;border-top:1px solid var(--line);background:var(--card)}
+textarea{flex:1;resize:none;font:inherit;padding:10px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--ink)}
+aside h2{font-size:13px;text-transform:uppercase;letter-spacing:.05em;color:var(--mute);margin:0 0 10px}.ev{font-size:13px;margin-bottom:8px;padding-left:10px;border-left:3px solid var(--line)}.ev small{display:block;color:var(--mute)}.ev.ticket_created{border-color:var(--ok)}.ev.ticket_proposed{border-color:var(--warn)}
+.msg ul{margin:6px 0;padding-left:20px}.msg p{margin:6px 0}code{background:var(--bg);padding:1px 4px;border-radius:4px}
+@media(max-width:800px){aside{display:none}}
+</style></head><body>
+<main>
+<header><h1>Joveo Support Agent</h1><span class="dots"><span class="dot" id="d-aura"></span>Aura<span class="dot" id="d-local"></span>Local Neo4j</span></header>
+<div id="log"></div>
+<form id="f"><textarea id="t" rows="2" placeholder="Describe your request, e.g. “Please boost job JR23091 in Montgomery, AL”"></textarea><button id="send">Send</button></form>
+</main>
+<aside><h2>Session timeline</h2><div id="tl"></div></aside>
+<script>
+const sid=(()=>{try{let s=sessionStorage.getItem('sid');if(!s){s=crypto.randomUUID();sessionStorage.setItem('sid',s)}return s}catch(e){return crypto.randomUUID()}})();
+const $=id=>document.getElementById(id),log=$('log');
+const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+function md(s){let h=esc(s).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/`([^`]+)`/g,'<code>$1</code>');
+ const out=[];let inl=false;for(const l of h.split('\n')){const m=l.match(/^\s*(?:[-*]|\d+\.)\s+(.*)/);if(m){if(!inl){out.push('<ul>');inl=true}out.push('<li>'+m[1]+'</li>')}else{if(inl){out.push('</ul>');inl=false}if(l.trim())out.push('<p>'+l+'</p>')}}
+ if(inl)out.push('</ul>');return out.join('')}
+function add(cls,html){const d=document.createElement('div');d.className='msg '+cls;d.innerHTML=html;log.appendChild(d);log.scrollTop=log.scrollHeight;return d}
+async function tl(){try{const r=await (await fetch('/api/timeline/'+sid)).json();$('tl').innerHTML=r.map(e=>`<div class="ev ${e.event}">${e.event.replace('_',' ')}${e.ticketId?' · '+e.ticketId:''}<small>${e.ts.slice(11,19)}</small></div>`).join('')||'<small>No events yet</small>'}catch(e){}}
+async function health(){try{const h=await (await fetch('/api/health')).json();$('d-aura').className='dot'+(h.aura?' on':'');$('d-local').className='dot'+(h.localNeo4j?' on':'')}catch(e){}}
+function ticketCard(box,p){const c=document.createElement('div');c.className='ticket';
+ c.innerHTML=`<b>Raise a support ticket?</b>${esc(p.title)}<br><small>${esc(p.summary)}</small><div style="margin-top:8px"><button>Create ticket</button> <button class="ghost">Not now</button></div>`;
+ const [yes,no]=c.querySelectorAll('button');
+ yes.onclick=async()=>{yes.disabled=no.disabled=true;try{const r=await fetch('/api/ticket',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({sessionId:sid,...p})});const j=await r.json();
+  c.innerHTML=r.ok?`<b>✅ Ticket ${j.ticketId} created</b><small>Saved to Aura${j.localNeo4j?' + local backup':''}.</small>`:`<b>⚠️ ${esc(j.detail||'failed')}</b>`}catch(e){c.innerHTML='<b>⚠️ Network error</b>'}tl()};
+ no.onclick=()=>c.remove();box.appendChild(c)}
+$('f').onsubmit=async e=>{e.preventDefault();const t=$('t').value.trim();if(!t)return;$('t').value='';add('user',esc(t));$('send').disabled=true;const w=add('bot','<i>Searching the knowledge graph…</i>');
+ try{const r=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({sessionId:sid,message:t})});const j=await r.json();
+  if(!r.ok){w.innerHTML='⚠️ '+esc(j.detail||'Error');}else{w.innerHTML=md(j.answer);
+   if(j.sources.length){const s=document.createElement('div');s.className='src';s.innerHTML=j.sources.map(x=>`<span class="chip">📘 ${esc(x.skill)} → ${esc(x.step)}</span>`).join('');w.appendChild(s)}
+   if(j.ticketProposal)ticketCard(w,j.ticketProposal)}}catch(err){w.textContent='⚠️ Could not reach the server'}
+ $('send').disabled=false;log.scrollTop=log.scrollHeight;tl()};
+$('t').onkeydown=e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();$('f').requestSubmit()}};
+add('bot','Hi! I answer from Joveo\'s support playbooks. Tell me what you need — if it needs the team to act (or I can\'t answer), I\'ll offer to raise a ticket.');
+health();tl();
+</script></body></html>

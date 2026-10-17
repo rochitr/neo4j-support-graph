@@ -1,0 +1,11 @@
+# secrets / local state
+.neo4j-credentials
+Neo4j-*-Created-*.txt
+neo4j-data/
+.env
+# generated + runtime
+graph-prep/out/
+graph-prep/agent/logs/*.jsonl
+graph-prep/agent/logs/*.out
+__pycache__/
+.DS_Store

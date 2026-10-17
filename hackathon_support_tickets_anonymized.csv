@@ -1,0 +1,1174 @@
+Selected Subcategory,Selection Rank (within subcategory),Items,Title,Stage,State,Created date,Date,Week No,Close date,Modified date,Owner,Owner-ID,Created by,Reported by,Reported by email,Account,Account-ID,Workspace,Group,Part,Channel,Source channel,Tags,Severity,Sentiment,Visibility,AI Resolution Status,SLA Name,F Response (Mins),F Response Status,Resolution (Mins),Resolution (Hrs),Resolution Hrs Net,Resolution Status,Resolution Mins (Active),Resolution Hrs (Active),Paused Hrs (Cust),Dormant Hrs,Reopens,Enrich Stamp,Age (Hrs),Category,Sub Category,Knowledge Base Gap,Approve Count,Reject Count,Work duration,Is Spam,Body,Ticket URL,Last synced
+Creation/setup of a new campaign,1,TKT-101,Monster Feed,resolved,closed,9/1/2026,[demo phone],2026-W36,10/12/2026,10/12/2026,Demo User 01,DEMO-USER-001,Email Integration Bot,Demo User 07,demo.user056@example.test,Demo Account 01,DEMO-ACC-001,Demo Account 01 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,7.0,hit,6841.0,114.02,444.76,miss,14259.22,237.65,31.31,161.29,6,[demo phone],979.26,Campaign Management,Creation/setup of a new campaign,,0,0,26.30 days,False,"Demo Account 07 USA wants to begin working with Monster and needs assistance setting up the required connections and XML feeds to receive Monster data in Joveo. Demo Contact 01, Demo Contact 02, and Demo Contact 03 are Monster points of contact; they need information to create the new XML feed and send the data back to Joveo.",https://demo.example.test/tickets/TKT-101,10/12/2026
+Creation/setup of a new campaign,2,TKT-102,Re: New Position Details : In order to post on Naukri Platform - 21.07.26,resolved,closed,7/22/2026,[demo phone],2026-W30,8/26/2026,8/26/2026,Demo User 02,DEMO-USER-002,Email Integration Bot,demo.contact@example.test,demo.user020@example.test,Demo Account 02,DEMO-ACC-002,Demo Account 02 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,escalated,Sub Category SLA Policies,0.0,hit,4433.0,73.88,395.89,miss,13738.18,228.97,0.0,153.92,7,[demo phone],849.01,Campaign Management,Creation/setup of a new campaign,,0,0,21.24 days,False,The user confirms that the specified jobs have been posted on the Naukri platform as per the provided details.,https://demo.example.test/tickets/TKT-102,9/18/2026
+Creation/setup of a new campaign,3,TKT-103,FW: Confidential Posting,resolved,closed,9/3/2026,[demo phone],2026-W36,10/12/2026,10/12/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 08,demo.user031@example.test,Demo Account 03,DEMO-ACC-003,Demo Account 03 - Demo Workspace,Customer Support,Default Product 1,email,email,demo.contact@example.test,Medium,Neutral,external,,SLA -1-Hr,59.0,hit,9661.0,161.02,411.17,miss,10561.43,176.02,96.4,125.25,1,[demo phone],928.67,Campaign Management,Creation/setup of a new campaign,,0,0,26.47 days,False,"Needs assistance creating a confidential/blind Indeed posting for a Lab Director role at a hospital in the FL Market, without mentioning Tenet or any Florida facility names. The budget is $500, and all leads or applications should go directly to Demo Contact 04; they are asking whether this can be supported and what information is needed, referencing prior coordination between Radancy and Indeed and attached posting details.",https://demo.example.test/tickets/TKT-103,10/12/2026
+Creation/setup of a new campaign,4,TKT-104,FW: Reqs and Handshake,resolved,closed,9/2/2026,[demo phone],2026-W36,9/22/2026,9/22/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 09,demo.user049@example.test,Demo Account 04,DEMO-ACC-004,Demo Account 04 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,20.0,hit,8.0,0.13,205.07,hit,10249.8,170.83,25.45,2.29,2,[demo phone],459.57,Campaign Management,Creation/setup of a new campaign,,0,0,19.05 days,False,"Baptist has two additional requisitions they want investigated due to a recent influx of international candidates, though the specific highlighted requisitions are not included in the ticket text. They are also increasing use of Handshake for new-grad recruiting and asking the team to assess whether a paid campaign test is worthwhile without additional budget; an updated sponsored jobs list is still in progress.",https://demo.example.test/tickets/TKT-104,9/22/2026
+Creation/setup of a new campaign,5,TKT-105,New Programmatic Client,resolved,closed,9/23/2026,[demo phone],2026-W39,10/13/2026,10/13/2026,Demo User 01,DEMO-USER-001,Email Integration Bot,Demo User 10,demo.user018@example.test,Demo Account 05,DEMO-ACC-005,Demo Account 05 - Demo Workspace,Customer Support,Campaign Management,email,email,"No-AI-Assist, demo.contact@example.test",Medium,Happy,external,,SLA -1-Hr,10.0,hit,8165.0,136.08,211.6,miss,8505.03,141.75,39.92,22.93,3,[demo phone],474.6,Campaign Management,Creation/setup of a new campaign,,0,0,18.44 days,False,"Set up a new programmatic campaign for Riverview Health targeting Nurses, Rad Techs, and MAs across Noblesville, Carmel, and Westfield, IN, with 8 jobs to be provided, an intended start date of 10/1 or ASAP, and a total gross budget of $2432. The campaign will use the ACTIVATE feed https://jobfeeds.activatenas.com/api/feeds/7a392653-4725-4a09-bee8-bdbb96a117f7, Ultipro ATS, and Indeed via NAS for Riverview Health Programmatic; medium=programmatic and campaign=nasprog are already in feed links, but utm_source must dynamically update by publisher, and the requester needs a recommended search allocation before confirming net spend.",https://demo.example.test/tickets/TKT-105,10/13/2026
+Creation/setup of a new campaign,6,TKT-106,Copy updates,resolved,closed,8/11/2026,[demo phone],2026-W33,8/24/2026,9/3/2026,Demo User 02,DEMO-USER-002,Email Integration Bot,Demo User 11,demo.user012@example.test,Demo Account 06,DEMO-ACC-006,Demo Account 06 - Demo Workspace,Customer Support,Default Product 1,email,email,"CS - Owned, No-AI-Assist",Medium,Neutral,external,,Sub Category SLA Policies,10.0,hit,4608.0,76.8,143.96,miss,7812.1,130.2,0.0,8.76,2,[demo phone],324.96,Campaign Management,Creation/setup of a new campaign,,0,0,13.09 days,False,"The user has completed copy updates for most pages, except those under ""Life at Demo Account 06,"" which will be finished in the morning.",https://demo.example.test/tickets/TKT-106,9/18/2026
+Creation/setup of a new campaign,7,TKT-107,Joveo X Indeed | New Site in Septmeber,resolved,closed,8/25/2026,[demo phone],2026-W35,9/5/2026,9/5/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 12,demo.user062@example.test,Demo Account 07,DEMO-ACC-007,Demo Account 07 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA-SubCategory-V1,58.0,hit,7653.0,127.55,131.56,miss,7653.32,127.56,0.0,0.0,0,[demo phone],247.56,Campaign Management,Creation/setup of a new campaign,,0,0,10.31 days,False,"Hello Demo Contact 05,
+
+We have a new Site from OMFIIT (Chemnitz OM) who wants to participate on the Joveo X Indeed campaigns starting in September.
+The campaign is planned to go live on September 1st, and the jobs will be set up over the next few days. But we will give a notice, if the site can set up those jobs fast enough, since Demo Contact 06 is on vacation and we need to set them up on our side.
+
+Here are the Informations:
+
+Name of the Site: Chemnitz Office & Management
+Requested Campaign Name: Chemnitz OM
+Monthly Budget: 800 €
+Cost Center: 50261
+
+Do you need any more information?
+
+Thanks for your help!
+
+Beste Grüße / best regards
+
+Demo User 12
+Junior Marketing Manager
+
+DIS AG
+
+E-Mail   demo.contact@example.test<mailto:demo.contact@example.test>
+Internet www.dis-ag.com<http://www.dis-ag.com/?utm_source=Email%20Signature&utm_medium=E-Mail&utm_campaign=Klick%20auf%20Internetadresse>
+
+
+-- 
+
+
+
+
+This message (including any attachments) may contain confidential, 
+p",https://demo.example.test/tickets/TKT-107,9/18/2026
+Creation/setup of a new campaign,8,TKT-108,Eastern Shore Eye Care- ID 1526624- Ophthalmic Technician,resolved,closed,8/25/2026,[demo phone],2026-W35,10/5/2026,10/5/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,demo.contact@example.test,demo.user027@example.test,Demo Account 08,DEMO-ACC-008,Demo Account 08 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA-SubCategory-V1,24.0,hit,6906.0,115.1,449.39,miss,7195.85,119.93,26.32,288.65,1,[demo phone],983.89,Campaign Management,Creation/setup of a new campaign,,0,0,13.84 days,False,"Joveo team,
+
+Please update geo-targeting to a radius of 15 miles from Fairhope, AL 36532
+
+-- 
+Demo Contact 07
+Client Success Manager | Hoops
+demo.contact@example.test | [demo phone]
+Calendly link- 15 minutes- 30 minutes
+
+-- 
+
+
+
+
+This message (including any attachments) may contain confidential, 
+proprietary, privileged and/or private information. The information is for 
+the use of the individual or entity designated above. If you have received 
+it by mistake, please notify the sender immediately, and delete the message 
+and any attachments. Any disclosure, reproduction, distribution or other 
+use of this message or any attachments by an individual or entity other 
+than the designated recipient is strictly prohibited.",https://demo.example.test/tickets/TKT-108,10/5/2026
+Creation/setup of a new campaign,9,TKT-109,Demo Account 09 Spotify Ads - Creative Attached,resolved,closed,8/20/2026,[demo phone],2026-W34,9/7/2026,9/7/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 13,demo.user004@example.test,Demo Account 09,DEMO-ACC-009,Demo Account 09 - Demo Workspace,Customer Support,Default Product 1,email,email,"CS - Owned, No-AI-Assist",Medium,Neutral,external,,Sub Category SLA Policies,14.0,hit,3767.0,62.78,193.34,miss,6645.01,110.75,76.09,0.0,0,[demo phone],447.84,Campaign Management,Creation/setup of a new campaign,,0,0,18.66 days,False,"Hi Joveo team,
+
+Attached here
+<https://drive.google.com/drive/folders/1QC3s25toI14I_T4owbxEJtP5OADq9q3K?usp=drive_link>
+is the creative brief & companion image options for our Demo Account 09 Spotify
+Ads.
+
+You’ll find our preferred script in the brief, along with 3 companion image
+options in the folder. We’re happy to let your team select the image you
+think will perform best for the first launch.
+
+We’ve outlined our campaign goal as maintaining a CPM of $16–$20, but it’s
+not yet clear what we should expect in terms of timing for launch. Could
+you clarify the following?
+
+   - Once you deliver the script and our brand guidelines to Spotify, how
+   long should we expect to wait for audio options? How many rounds of review
+   are included? Is there a formal process when selecting a voiceover actor or
+   tones we can choose from?
+   - Given our goal of maintaining a $16–$20 CPM, what budget would you
+   recommend for this campaign? It sounded like this could fit within our $",https://demo.example.test/tickets/TKT-109,9/18/2026
+Creation/setup of a new campaign,10,TKT-110,Career Site UA Questions,resolved,closed,9/11/2026,[demo phone],2026-W37,9/22/2026,9/22/2026,Demo User 01,DEMO-USER-001,Email Integration Bot,Demo User 14,demo.user047@example.test,Demo Account 10,DEMO-ACC-010,Demo Account 10 - Demo Workspace,,Reporting,email,email,"No-AI-Assist, demo.contact@example.test",Medium,Neutral,external,,SLA -1-Hr,17.0,hit,6300.0,105.0,108.5,miss,6300.07,105.0,0.0,0.0,0,[demo phone],264.0,Campaign Management,Creation/setup of a new campaign,,0,0,11.00 days,False,"Questions about the UA Career Site tab include whether dashboard metrics cover landing pages, how to distinguish stats for multiple pages under Flint Prod (including Fall Turnaround and Envrion), and whether published but non-live pages with approved DNS are included. They also request clarification on the missing Social percentage in the Flint “Total visitors by source” chart despite Meta campaigns and whether applications started/completed reflect funnel tracking from landing-page CTAs to jobs using Mojo Apply.",https://demo.example.test/tickets/TKT-110,9/22/2026
+Creation/setup of a new campaign,11,TKT-111,Fw: Improving Campaign-to-Hire Visibility,resolved,closed,7/26/2026,[demo phone],2026-W30,10/12/2026,10/12/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 10,demo.user018@example.test,Demo Account 05,DEMO-ACC-005,Demo Account 05 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,escalated,Sub Category SLA Policies,0.0,hit,3483.0,58.05,855.31,miss,5768.3,96.14,0.0,731.17,14,[demo phone],1863.53,Campaign Management,Creation/setup of a new campaign,True,0,0,54.92 days,False,"The user inquires about the necessity of write access for the Joveo API, specifically whether it requires adding or modifying applicant identifiers, to improve campaign-to-hire visibility and tracking.",https://demo.example.test/tickets/TKT-111,10/12/2026
+Creation/setup of a new campaign,12,TKT-112,Fwd: Programmatic Requests,resolved,closed,7/31/2026,[demo phone],2026-W31,9/24/2026,9/24/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 15,demo.user043@example.test,Demo Account 11,DEMO-ACC-011,Demo Account 11 - Demo Workspace,Customer Support,Default Product 1,email,email,demo.contact@example.test,Medium,Neutral,external,escalated,Sub Category SLA Policies,8.0,hit,0.0,0.0,612.73,hit,5284.14,88.07,0.43,504.23,19,[demo phone],1336.73,Campaign Management,Creation/setup of a new campaign,,0,0,8.54 days,False,"Hi Bushra,
+
+Please see attached list from Hilti for this week.
+
+
+Thank you,
+
+*Demo Contact 08 (She/Her)*
+
+*Operations & Finance Manager*
+
+
+
+Intelligence ● Integrity ● Intentional ● Inclusive ● Illuminators
+
+
+Central Time Zone
+
+
+*Upcoming OOO:*
+
+
+
+   - *September 3rd - 8th *",https://demo.example.test/tickets/TKT-112,9/24/2026
+Creation/setup of a new campaign,13,TKT-113,Search and Display Goal Setting,resolved,closed,7/14/2026,[demo phone],2026-W29,7/22/2026,8/19/2026,Demo User 05,DEMO-USER-005,Conversation Classification Workflow,Demo User 16,demo.user025@example.test,Demo Account 12,DEMO-ACC-012,Demo Account 12 - Demo Workspace,Customer Support,Default Product 1,email,,CS - Owned,Medium,,external,escalated,Sub Category SLA Policies,73.0,miss,3133.0,52.22,90.54,miss,5252.6,87.54,0.0,0.0,0,[demo phone],189.54,Campaign Management,Creation/setup of a new campaign,,0,0,7.90 days,False,"Yelena,
+
+We are working with goal setting and we would love to know if you have an expected CPM range that depends on the budget?  We are trying to be mathematical to determine the goals on our media expectation to set up context on expected range based upon budget.
+
+Thank you for your help!
+SM
+Demo Contact 09
+
+Recruitment Marketing & Media
+Global Talent Attraction and Marketing
+
+Demo Account 12 | 550 4th Street | Minneapolis, MN 55415
+Tel [demo phone] | Mac N9310-112
+
+
+demo.contact@example.test<mailto:demo.contact@example.test>
+
+Pronouns: She/Her/Hers
+
+
+""This message may contain confidential and/or privileged information. If you are not the addressee or authorized to receive this for the addressee, you must not use, copy. disclose, or take any action based on this message or any information herein.  If you have received this message in error, please advise the sender immediately by reply e-mail and delete this message.  Thank you for your cooperation.""
+
+
+-- ",https://demo.example.test/tickets/TKT-113,9/18/2026
+Creation/setup of a new campaign,14,TKT-114,"HW Aerospace Display Campaign – Key Takeaways, Joveo Feedback & Next Steps",resolved,closed,9/28/2026,[demo phone],2026-W40,10/8/2026,10/8/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 17,demo.user034@example.test,Demo Account 13,DEMO-ACC-013,Demo Account 13 - Demo Workspace,Customer Support,Campaign Management,email,email,"CS - Owned, No-AI-Assist",Medium,Happy,external,,SLA -1-Hr,8.0,hit,5125.0,85.42,115.24,miss,5125.79,85.43,2.97,22.84,5,[demo phone],231.24,Campaign Management,Creation/setup of a new campaign,,0,0,5.93 days,False,"Honeywell Aerospace is launching a three-month display campaign following its spinoff and new EVP, focused on brand awareness and driving talent-community signups rather than applications. Brand guidelines restrict logo use on social media and currently limit people imagery; Meta in-app lead forms were recommended to reduce friction and lead costs, with setup as the proposed next step.",https://demo.example.test/tickets/TKT-114,10/8/2026
+Creation/setup of a new campaign,15,TKT-115,"PPG Campaign Update - 175-USA-Cleveland, OH-Facilities Engineers",resolved,closed,9/16/2026,[demo phone],2026-W38,9/24/2026,9/24/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 18,demo.user028@example.test,Demo Account 14,DEMO-ACC-014,Demo Account 14 - Demo Workspace,Customer Support,Campaign Management,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,6.0,hit,24.0,0.4,88.48,hit,5101.98,85.03,0.0,0.45,2,[demo phone],187.48,Campaign Management,Creation/setup of a new campaign,,0,0,7.79 days,False,"Request to update the PPG campaign for Facilities Engineer in Cleveland, OH (job ID JR2611399), targeting 2 hires and approximately 20 applicants; current CRM flow is 4 applicants and 1 lead. The role offers a full benefits package and requires a relevant bachelor’s degree, 3–7 years of manufacturing facilities/plant engineering experience, and related technical skills, with CFM, PE, or LEED preferred.",https://demo.example.test/tickets/TKT-115,9/24/2026
+Creation/setup of a new campaign,16,TKT-116,RE: Programmatic Campaign Test – Demo Account 07 Medical,resolved,closed,7/27/2026,[demo phone],2026-W31,9/11/2026,9/11/2026,Demo User 01,DEMO-USER-001,Email Integration Bot,Demo User 19,demo.user063@example.test,Demo Account 07,DEMO-ACC-007,Demo Account 07 - Demo Workspace,Customer Support,Default Product 1,email,email,CS - Owned,Medium,Neutral,external,escalated,Sub Category SLA Policies,0.0,hit,1039.0,17.32,519.34,miss,4886.18,81.44,6.3,415.11,2,[demo phone],1087.84,Campaign Management,Creation/setup of a new campaign,,0,0,5.53 days,False,"Stella is inquiring about discrepancies between the number of live and inactive jobs for the Demo Account 07 Medical campaign, questioning potential delays in updates and if such discrepancies are normal. She also requests adding specific jobs to reach around 50 active listings.",https://demo.example.test/tickets/TKT-116,9/18/2026
+Creation/setup of a new campaign,17,TKT-117,Priority REQs - NSS PA,resolved,closed,9/23/2026,[demo phone],2026-W39,10/5/2026,10/5/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 20,demo.user066@example.test,Demo Account 15,DEMO-ACC-015,Demo Account 15 - Demo Workspace,Customer Support,Campaign Management,email,email,"CS - Owned, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,230.0,miss,4540.0,75.67,117.4,miss,4771.66,79.53,9.05,24.82,1,[demo phone],281.4,Campaign Management,Creation/setup of a new campaign,,0,0,9.94 days,False,"Open backfill positions require faster turnaround, with priority coverage needed for license roles (Teacher, OT, SLP, etc.), especially NSS PA and NSS OH, where students are waiting to start. Rates were added to license-role listings, “school-based” was added to SLP/OT titles, and NSS PA/NSS OH descriptions were revised; the team is asking whether to increase spend and/or create or confirm a dedicated campaign for these REQs.",https://demo.example.test/tickets/TKT-117,10/5/2026
+Creation/setup of a new campaign,18,TKT-118,Hosted Jobs Performance Report and Recommendations,resolved,closed,8/27/2026,[demo phone],2026-W35,9/15/2026,9/15/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 21,demo.user021@example.test,Demo Account 16,DEMO-ACC-016,Demo Account 16 - Demo Workspace,Customer Support,Default Product 1,email,email,"CS - Owned, No-AI-Assist",Medium,Neutral,external,,SLA-SubCategory-V2,7.0,hit,1692.0,28.2,197.66,miss,4602.2,76.7,12.82,101.63,4,[demo phone],452.16,Campaign Management,Creation/setup of a new campaign,,0,0,9.92 days,False,"Hi Grace,
+
+I’m sharing the latest performance report for our hosted jobs. The first
+tab provides results for the recent reporting period, and the second tab
+outlines our recommendations for which jobs to continue hosting, along with
+15 new requisitions to consider.
+
+We know the team has mentioned that hosted jobs haven’t always delivered
+the strongest candidate quality. Before we continue testing or move forward
+with additional roles, we’d like to check in with the hiring teams and
+understand their experience. In particular, it would be helpful to know
+which jobs have performed well from a candidate-quality perspective, what
+hasn’t worked, and whether the team believes hosted jobs are worth
+continuing to test.
+
+The nine jobs we currently recommend continuing are:
+
+Strongly recommend continuing
+
+   -
+
+   R-251618 — Certified Veterinary Technician, Phoenix, AZ
+   -
+
+   R-251556 — Licensed Veterinary Technician, Atlanta, GA
+   -
+
+   R-251548 — Registered Veterin
+
+<sub><don:identity:dvrv-us-1:devo/1Ey2cSeuYY:devu/63> sent via Email</sub>",https://demo.example.test/tickets/TKT-118,9/18/2026
+Creation/setup of a new campaign,19,TKT-119,"FW: ISL, TB, and Seaton rules for 2 week test",awaiting_customer_response,in_progress,10/8/2026,[demo phone],2026-W41,,10/15/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 22,demo.user019@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,"CS-dependency, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,263.0,miss,,,,miss,4484.61,74.74,20.26,0.0,0,[demo phone],170.47,Campaign Management,Creation/setup of a new campaign,,0,0,,False,"The request is to test the ISL, TB, and Seaton rules for two weeks. They’re asking for help monitoring spend and traffic during the test and adjusting the rules based on the results.",https://demo.example.test/tickets/TKT-119,10/15/2026
+Creation/setup of a new campaign,20,TKT-120,Low spendings in H&LS,resolved,closed,9/10/2026,[demo phone],2026-W37,9/17/2026,9/17/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 23,demo.user029@example.test,Demo Account 07,DEMO-ACC-007,Demo Account 07 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,,SLA -1-Hr,43.0,hit,4292.0,71.53,74.04,miss,4292.24,71.54,0.0,0.0,0,[demo phone],157.26,Campaign Management,Creation/setup of a new campaign,,0,0,6.55 days,False,Demo User 23 reports unexpectedly low spending for Healthcare & Lifesciences (H&LS). He asks Demo Contact 23 to review the jobgroup settings to identify whether they are causing the low spend.,https://demo.example.test/tickets/TKT-120,9/18/2026
+Creation/setup of a new campaign,21,TKT-121,Sponsors & Job Fair,resolved,closed,9/10/2026,[demo phone],2026-W37,9/23/2026,9/25/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,demo.contact@example.test,demo.user050@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Frustrated,external,,SLA -1-Hr,44.0,hit,10.0,0.17,124.54,hit,3989.78,66.5,0.0,54.04,3,[demo phone],288.54,Campaign Management,Creation/setup of a new campaign,,0,0,6.65 days,False,"Seeking promotion for a job fair at Overlook Green Senior Living and additional sponsor roles, including a Cook position (https://hidden-meadows-on-the-ridge.oasisrecruit.com/job/716802/cook-11am-7pm). The in-person event has a $500 budget, is located at Overlook Green, 5250 Meadowgreen Dr., Pittsburgh, PA 15236, and will include candidate interviews with a flexible number of interviews; they are asking whether any additional information is needed.",https://demo.example.test/tickets/TKT-121,9/25/2026
+Creation/setup of a new campaign,22,TKT-122,Saltillo MS Meta Ads,resolved,closed,8/31/2026,[demo phone],2026-W36,9/7/2026,9/7/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 24,demo.user058@example.test,Demo Account 18,DEMO-ACC-018,Demo Account 18 - Demo Workspace,Customer Support,Default Product 1,email,email,"Supply, No-AI-Assist",Medium,Neutral,external,,SLA-SubCategory-V2,15.0,hit,0.0,0.0,69.73,hit,3754.49,62.57,0.0,4.66,2,[demo phone],160.23,Campaign Management,Creation/setup of a new campaign,,0,0,4.49 days,False,"Good morning Joveo team,
+
+We would like to run a new Meta Ad set; this will be for Saltillo MS. Run time from Sep 4-10. Below is the copy and attached are the graphics. Let me know if you have any other questions.
+
+We're Hiring in Saltillo, Mississippi!
+Ready for a new career opportunity? Join Demo Account 18 as a Manufacturing Associate or Facility Tech and be part of the team that helps build quality furniture for homes across the country.
+📍 Apply In Person
+🗓 September 8 - September 11
+⏰ 9:00 AM - 3:30 PM
+📌 234 Turner Industrial Rd, Saltillo, MS 38866
+Meet our team, explore career opportunities, and discover why Demo Account 18 is one of the world's largest furniture manufacturers and retailers.
+Choose to be Extraordinary. Your Career Starts Here.
+Apply today at careers.ashleyfurniture.com
+
+
+
+Best,
+
+
+Demo Contact 20 | Recruitment Marketing Specialist
+
+Demo Account 18 Industries, Inc.
+4000 East Scyene Rd | Mesquite, TX 75181
+c [demo phone] | Ebarajas@Ashleyfu",https://demo.example.test/tickets/TKT-122,9/18/2026
+Creation/setup of a new campaign,23,TKT-123,JoveoXIndeed | OMFIIT | New Site Ulm OM,resolved,closed,9/29/2026,[demo phone],2026-W40,10/5/2026,10/5/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 12,demo.user062@example.test,Demo Account 07,DEMO-ACC-007,Demo Account 07 - Demo Workspace,Customer Support,Campaign Management,email,email,AdOps - Dependency,Medium,Neutral,external,,SLA -1-Hr,9.0,hit,3646.0,60.77,62.78,miss,3646.68,60.78,0.0,0.0,0,[demo phone],144.78,Campaign Management,Creation/setup of a new campaign,,0,0,6.03 days,False,"DIS AG is requesting creation of a new JoveoXIndeed campaign for the site “Ulm OM” (Ulm Office & Management), planned to go live in October. The requested campaign details are: Campaign Name: Ulm OM, Cost Center: 00036, Budget: 600€; please create the campaign.",https://demo.example.test/tickets/TKT-123,10/5/2026
+Creation/setup of a new campaign,24,TKT-124,New Client,resolved,closed,7/23/2026,[demo phone],2026-W30,8/14/2026,8/18/2026,Demo User 02,DEMO-USER-002,Email Integration Bot,Demo User 10,demo.user018@example.test,Demo Account 05,DEMO-ACC-005,Demo Account 05 - Demo Workspace,Customer Support,Default Product 1,email,email,demo.contact@example.test,Medium,Neutral,external,escalated,Sub Category SLA Policies,52.0,hit,25.0,0.42,249.18,hit,3360.16,56.0,30.4,154.78,2,[demo phone],529.18,Campaign Management,Creation/setup of a new campaign,,0,0,7.85 days,False,"Hi Guys-
+
+I'm not sure if Cliff mentioned this client was on it's way, but we will be starting The Christ Hospital.  I don't have budget or jobs yet.  But can you get it started.  I will get the ATS for pixel placement, but they want to start without.
+
+
+https://jobfeeds.activatenas.com/api/feeds/d7672aa4-17dd-4611-bbb8-920b955ac15e
+
+Please use the following parameters:  utm_medium=programmatic utm_source=
+(to be dynamic based on which jobsite click originated) utm_campaign=nasprog src=nasprog
+
+
+
+
+Thank you,
+
+Demo Contact 12 | Paid Media Strategy Lead
+[cid:image001.jpg@01DD1A70.006A03B0]<nasrecruitment.com>
+Independence, Ohio
+Office: [demo phone]
+
+
+-- 
+
+
+
+
+This message (including any attachments) may contain confidential, 
+proprietary, privileged and/or private information. The information is for 
+the use of the individual or entity designated above. If you have received 
+it by mistake, please notify the sender immediately, and delete the message 
+and any attac",https://demo.example.test/tickets/TKT-124,9/18/2026
+Creation/setup of a new campaign,25,TKT-125,Veteran Programmatic Campaign,resolved,closed,8/25/2026,[demo phone],2026-W35,9/17/2026,9/17/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 25,demo.user060@example.test,Demo Account 12,DEMO-ACC-012,Demo Account 12 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,Updated SLA Policies - (3 AM - 6PM),49.0,hit,11.0,0.18,273.44,hit,3172.56,52.88,0.0,211.56,4,[demo phone],570.44,Campaign Management,Creation/setup of a new campaign,,0,0,7.70 days,False,"James and Joveo Team,
+
+There will be a veterans programmatic campaign coming in on Thursday or Friday of this week that will run for at least a week, if not until 9/7 in Des Moines (thinking at least 100 mile radius and can include Omaha and Iowa City) and Irving, Texas. The budget is $7500.  I will know more tomorrow, but I wanted you to have a heads up on this upcoming campaign.
+
+Thanks!
+SM
+Demo Contact 09
+
+Recruitment Marketing & Media
+Global Talent Attraction and Marketing
+
+Demo Account 12 | 550 4th Street | Minneapolis, MN 55415
+Tel [demo phone] | Mac N9310-112
+
+
+demo.contact@example.test<mailto:demo.contact@example.test>
+
+Pronouns: She/Her/Hers
+
+
+""This message may contain confidential and/or privileged information. If you are not the addressee or authorized to receive this for the addressee, you must not use, copy. disclose, or take any action based on this message or any information herein.  If you have received this message in error, please advise the se",https://demo.example.test/tickets/TKT-125,9/18/2026
+Creation/setup of a new campaign,26,TKT-126,RE: FW: Joveo Programmatic Pixel Placement Instructions / Demo Account 13 partnership,resolved,closed,8/27/2026,[demo phone],2026-W35,9/29/2026,9/29/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 26,demo.user069@example.test,Demo Account 13,DEMO-ACC-013,Demo Account 13 - Demo Workspace,Customer Support,Default Product 1,email,email,CS - Owned,Medium,Neutral,external,,SLA-SubCategory-V2,37.0,hit,393.0,6.55,353.47,miss,2952.65,49.21,0.0,292.76,12,[demo phone],788.97,Campaign Management,Creation/setup of a new campaign,,0,0,1.81 days,False,"Jordan,
+
+Good Afternoon!
+
+Circling back on this as it relates to adjustments on our side (cc’ing Jade – client partner - as she will have a little more detail in addition to below).
+
+@Harper, Jade @ Washington<mailto:demo.contact@example.test> – if you can keep me honest; the quick story is that we’re going through transition from former LevelUp program to newer AWA branding and as a result, it’s changing the way our portal pages are executing (we currently have pixels on front end to identify click interactions and on back end to identify application / registration info. – to identify conversion).  Our goal is to make sure that any changes to portal pages or positioning of them don’t change current impact.
+
+Could the 3 of us, @ minimum, get on a call – sooner than later – to have a brief discussion on details, and status quo, to determine whether there’s anything needed from our ends?
+
+Thanks,
+Thomas G. Carter
+Sr. Manager – Recruitment Marketing
+Demo Account 13
+
+[demo phone]
+tho",https://demo.example.test/tickets/TKT-126,9/29/2026
+Creation/setup of a new campaign,27,TKT-127,Re: New Campaign Structure,resolved,closed,7/30/2026,[demo phone],2026-W31,8/31/2026,9/3/2026,Demo User 02,DEMO-USER-002,Email Integration Bot,Demo User 27,demo.user003@example.test,Demo Account 19,DEMO-ACC-019,Demo Account 19 - Demo Workspace,Customer Support,Default Product 1,email,email,"CS-dependency, No-AI-Assist",Medium,Neutral,external,escalated,Sub Category SLA Policies,0.0,hit,110.0,1.83,332.45,hit,2928.7,48.81,39.59,233.05,2,[demo phone],759.45,Campaign Management,Creation/setup of a new campaign,,0,0,11.93 days,False,"The customer inquires about the feasibility of sending a paid job feed to Indeed for manual campaign selection, tracking issues with organic feeds, inactive jobs still appearing in campaigns, missing jobs in certain groups, and high CPA concerns, seeking updates and solutions.",https://demo.example.test/tickets/TKT-127,9/18/2026
+Creation/setup of a new campaign,28,TKT-128,Job Not Receiving Paid Traffic,resolved,closed,8/7/2026,[demo phone],2026-W32,9/18/2026,9/18/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 27,demo.user003@example.test,Demo Account 19,DEMO-ACC-019,Demo Account 19 - Demo Workspace,Customer Support,Default Product 1,email,email,CS - Owned,Medium,Neutral,external,escalated,Sub Category SLA Policies,80.0,miss,101.0,1.68,465.7,hit,2875.66,47.93,65.82,336.95,2,[demo phone],1008.7,Campaign Management,Creation/setup of a new campaign,,0,0,13.21 days,False,The user reports that a specific job (AW677465984) is not receiving paid traffic and requests assistance to ensure it is correctly included in the DFW - 2 job group under the Demo Account 19 Light Industrial campaign.,https://demo.example.test/tickets/TKT-128,9/18/2026
+Creation/setup of a new campaign,29,TKT-129,Post - Create Hiring Event,resolved,closed,7/17/2026,[demo phone],2026-W29,10/2/2026,10/2/2026,Demo User 02,DEMO-USER-002,Conversation Classification Workflow,Demo User 28,demo.user048@example.test,Demo Account 18,DEMO-ACC-018,Demo Account 18 - Demo Workspace,Customer Support,Default Product 1,email,,CS-dependency,Medium,Happy,external,escalated,Sub Category SLA Policies,137.0,miss,2.0,0.03,845.24,hit,2856.99,47.62,0.0,770.48,15,[demo phone],1840.74,Campaign Management,Creation/setup of a new campaign,True,0,0,5.62 days,False,"Hi Joveo Team,
+
+Amaury has attempted to create a hiring event on Indeed.com and does not have access. Can you please provide him access to create an event.
+
+Thank you,
+
+Melissa
+
+-- 
+
+
+
+
+This message (including any attachments) may contain confidential, 
+proprietary, privileged and/or private information. The information is for 
+the use of the individual or entity designated above. If you have received 
+it by mistake, please notify the sender immediately, and delete the message 
+and any attachments. Any disclosure, reproduction, distribution or other 
+use of this message or any attachments by an individual or entity other 
+than the designated recipient is strictly prohibited.",https://demo.example.test/tickets/TKT-129,10/2/2026
+Creation/setup of a new campaign,30,TKT-130,JoveoXIndeed OMFIIT | New Site,resolved,closed,9/23/2026,[demo phone],2026-W39,9/28/2026,10/13/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 12,demo.user062@example.test,Demo Account 07,DEMO-ACC-007,Demo Account 07 - Demo Workspace,Customer Support,Campaign Management,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,2797.0,miss,2797.0,46.62,48.13,miss,2797.96,46.63,0.0,0.0,0,[demo phone],121.63,Campaign Management,Creation/setup of a new campaign,,0,0,5.07 days,False,The Site Dresden OM Kreuzkirche will be split into two sites going live in October: Dresden OM Kreuzkirche (Cost Center: 00004) and Dresden IT (Cost Center: 51161). Please reduce the existing Dresden OM Kreuzkirche budget to 400€ and create a Dresden IT campaign with a 400€ budget in JoveoXIndeed OMFIIT.,https://demo.example.test/tickets/TKT-130,10/13/2026
+Creation/setup of a new campaign,31,TKT-131,National Nursing Campaign,resolved,closed,7/15/2026,[demo phone],2026-W29,7/21/2026,8/19/2026,Demo User 04,DEMO-USER-004,Conversation Classification Workflow,Demo User 29,demo.user055@example.test,Demo Account 20,DEMO-ACC-020,Demo Account 20 - Demo Workspace,Customer Support,Default Product 1,email,,AdOps - Dependency,Medium,,external,escalated,Sub Category SLA Policies,14.0,hit,1336.0,22.27,72.76,miss,2776.58,46.28,23.98,0.0,0,[demo phone],163.26,Campaign Management,Creation/setup of a new campaign,,0,0,6.80 days,False,"Hi team,
+
+We're hoping to make some adjustments to our National Nursing Campaign. We've been receiving interest, but most of the interest is coming from Canada. Is there a way to remove Canada from our target market and focus more on the U.S?
+
+Best regards,
+
+[Demo Account 20 Logo]<http://www.Demo Account 20.com/>
+Demo User 29 talent & hr specialist
+Demo Account 20
+5150 SW Griffith Drive
+Beaverton, OR [demo phone]
+[demo phone] office | [demo phone] cell
+demo.contact@example.test<mailto:demo.contact@example.test> | Demo Account 20.com<http://www.Demo Account 20.com>
+
+
+-- 
+
+
+
+
+This message (including any attachments) may contain confidential, 
+proprietary, privileged and/or private information. The information is for 
+the use of the individual or entity designated above. If you have received 
+it by mistake, please notify the sender immediately, and delete the message 
+and any attachments. Any disclosure, reproduction, distribution or other 
+use of this message or any attachments by an",https://demo.example.test/tickets/TKT-131,9/18/2026
+Creation/setup of a new campaign,32,TKT-132,New Social Campaign - L'Equipeur QB,resolved,closed,9/11/2026,[demo phone],2026-W37,9/17/2026,9/17/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 30,demo.user039@example.test,Demo Account 21,DEMO-ACC-021,Demo Account 21 - Demo Workspace,Customer Support,Campaign Management,email,email,"Supply, No-AI-Assist",Medium,Frustrated,external,,SLA -1-Hr,11.0,hit,2740.0,45.67,47.73,miss,2751.95,45.87,0.0,0.36,1,[demo phone],121.23,Campaign Management,Creation/setup of a new campaign,,0,0,5.04 days,False,"New creative and campaign details have been added for a social campaign in Quebec targeting four cities as a pilot. Laura is requesting confirmation of any additional requirements and the timeline to go live, as the campaign is time sensitive and intended to provide backup coverage for programmatic seasonal delivery.",https://demo.example.test/tickets/TKT-132,9/18/2026
+Creation/setup of a new campaign,33,TKT-133,Concerto,resolved,closed,8/6/2026,[demo phone],2026-W32,8/13/2026,8/18/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 31,demo.user033@example.test,Demo Account 05,DEMO-ACC-005,Demo Account 05 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,escalated,Sub Category SLA Policies,84.0,miss,1666.0,27.77,70.59,miss,2746.69,45.78,22.31,0.0,0,[demo phone],161.09,Campaign Management,Creation/setup of a new campaign,,0,0,6.71 days,False,"Demo Contact 12 inquires if Indeed has been launched for Concerto, noting it was likely slow to start due to the weekend, and asks for an update as the client is requesting status.",https://demo.example.test/tickets/TKT-133,9/18/2026
+Creation/setup of a new campaign,34,TKT-134,US Oncology OHC Req,resolved,closed,8/26/2026,[demo phone],2026-W35,8/31/2026,8/31/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 32,demo.user067@example.test,Demo Account 05,DEMO-ACC-005,Demo Account 05 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,,SLA-SubCategory-V2,16.0,hit,2646.0,44.1,45.61,miss,2646.55,44.11,0.0,0.0,0,[demo phone],119.11,Campaign Management,Creation/setup of a new campaign,,0,0,4.96 days,False,"Hey Pranav,
+
+Please post req 42257 for OHC budget is $400.
+
+Thanks,
+
+
+
+Demo User 32 | Paid Media Strategy Lead, SME
+[cid:image001.jpg@01DD354F.0EC73E10]<https://www.nasrecruitment.com/strategy/>
+Office: [demo phone]
+[cid:image002.jpg@01DD354F.0EC73E10]<https://www.nasrecruitment.com/recruitment-marketing-platform/>
+
+
+
+-- 
+
+
+
+
+This message (including any attachments) may contain confidential, 
+proprietary, privileged and/or private information. The information is for 
+the use of the individual or entity designated above. If you have received 
+it by mistake, please notify the sender immediately, and delete the message 
+and any attachments. Any disclosure, reproduction, distribution or other 
+use of this message or any attachments by an individual or entity other 
+than the designated recipient is strictly prohibited.",https://demo.example.test/tickets/TKT-134,9/18/2026
+Creation/setup of a new campaign,35,TKT-135,Re: Updated Sponsor List and request for screening questions,resolved,closed,9/2/2026,[demo phone],2026-W36,9/7/2026,9/7/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 33,demo.user036@example.test,Demo Account 22,DEMO-ACC-022,Demo Account 22 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Frustrated,external,,SLA -1-Hr,2146.0,miss,2146.0,35.77,44.88,miss,2602.84,43.38,0.0,0.0,0,[demo phone],118.38,Campaign Management,Creation/setup of a new campaign,,0,0,4.93 days,False,"David acknowledged receipt of the updated sponsor list and requested screening questions. His team will review the materials and add the screening questions, then follow up if additional information or clarification is needed.",https://demo.example.test/tickets/TKT-135,9/18/2026
+Creation/setup of a new campaign,36,TKT-136,Support for Operations Senior Manager – Commercial Lending Underwriting,resolved,closed,7/31/2026,[demo phone],2026-W31,8/18/2026,9/3/2026,Demo User 02,DEMO-USER-002,Email Integration Bot,Demo User 25,demo.user060@example.test,Demo Account 12,DEMO-ACC-012,Demo Account 12 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Happy,external,escalated,Sub Category SLA Policies,52.0,hit,122.0,2.03,187.36,miss,2592.85,43.21,0.0,138.15,2,[demo phone],433.36,Campaign Management,Creation/setup of a new campaign,,0,0,4.93 days,False,"Team,
+
+Please sponsor this specific role via search and display through August for $100 in the Philippines.
+
+Thank you!
+SM
+R-549561 Operations Senior Manager – Commercial Lending Underwriting
+Operations Senior Manager, Commercial Lending Underwriting, TAGUIG CITY, National Capital Region (Manila) | Demo Account 12<https://www.wellsfargojobs.com/en/jobs/r-549561/operations-senior-manager-commercial-lending-underwriting/>
+
+Skills:
+Commercial Lending Underwriting
+Corporate Credit Analysis
+Credit Risk Management
+Credit Evaluation
+Credit Approval
+Portfolio Management
+Financial Statement Analysis
+Financial Spreading
+SME / Middle Market Lending
+Secured Lending
+Auto Lending / Dealer Financing
+People Management/ Leadership
+
+Certifications (Preferred only):
+Certified Public Accountant
+Chartered Financial Analyst
+Master of Business Administration
+
+Target Companies: Global Capability Centers / International Banks
+Demo Account 12 (Rehire employees are welcome to apply)
+JPMorga",https://demo.example.test/tickets/TKT-136,9/18/2026
+Creation/setup of a new campaign,37,TKT-137,Cabin Crew Campaign Brief,resolved,closed,7/13/2026,[demo phone],2026-W29,7/16/2026,8/18/2026,Demo User 05,DEMO-USER-005,Demo User 01,Demo User 34,demo.user072@example.test,Demo Account 23,DEMO-ACC-023,Demo Account 23 - Demo Workspace,Customer Support,default,slack,slack,AdOps - Dependency,High,,external,deflected,Sub Category SLA Policies,1456.0,miss,1456.0,24.27,43.42,miss,2515.24,41.92,0.0,0.0,0,[demo phone],68.92,Campaign Management,Creation/setup of a new campaign,,0,0,2.87 days,False,"Hi Demo Contact 22,
+
+Thank you for sharing the cabin crew brief.
+
+We've received the details and will review the requirements with the team. We understand that time is of the essence, and we'll share key milestones and an estimated timeline with you as soon as possible.
+
+Please let us know if there's anything else you'd like us to consider in the meantime.
+
+Thank you, 
+Demo User 01 
+Joveo Customer Support",https://demo.example.test/tickets/TKT-137,9/18/2026
+Creation/setup of a new campaign,38,TKT-138,Amazon Peak - Campaigns running by EOW,resolved,closed,9/8/2026,[demo phone],2026-W37,9/22/2026,9/22/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 35,demo.user017@example.test,Demo Account 07,DEMO-ACC-007,Demo Account 07 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,,SLA -1-Hr,39.0,hit,107.0,1.78,151.71,miss,2479.49,41.32,45.95,59.43,5,[demo phone],332.71,Campaign Management,Creation/setup of a new campaign,,0,0,7.01 days,False,"Campaigns need to be live by Friday for Amazon locations HAJ8 Garbsen, NUE9 Eggolsheim, and FRAX Gernsheim, in German and English, including Joveo; the requested budget split is 60% Indeed and 40% smaller job boards. The team is asking which smaller job boards have historically delivered the best CPA, whether the linked SharePoint job-information file is usable, and needs guidance regarding missing pixels since the Amazon website switched to SWP.",https://demo.example.test/tickets/TKT-138,9/22/2026
+Creation/setup of a new campaign,39,TKT-139,August Retail Restart - New Req list,resolved,closed,8/18/2026,[demo phone],2026-W34,10/14/2026,10/14/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 36,demo.user070@example.test,Demo Account 24,DEMO-ACC-024,Demo Account 24 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,resolved,Sub Category SLA Policies,47.0,hit,551.0,9.18,632.25,miss,2293.69,38.23,84.53,488.99,7,[demo phone],1364.75,Campaign Management,Creation/setup of a new campaign,,0,0,12.38 days,False,"Hi Raseena, Akarsh, and Joveo team,
+
+We received the green light to turn our retail campaign back on. I am sending a revised IO through our system ASAP today, but can details the updates below so we can get started:
+
+
+  *   Req list attached: These reqs will be supported from ASAP now until the end of September
+     *   Total reqs to support through end of Sept: 248
+        *   Please let me know if you see any of these are inactive, and we can swap them out
+     *   Target apps per req: 60
+  *   August-September budget: $308,222
+     *   I have this split in the IO between August and September, any underdelivery in August can be moved to September
+     *   August budget: $104,726.00
+     *   September budget: $203,496.00
+  *   New list will be provided for Oct-Feb once we receive from VZ
+
+Please let me know if you have any questions, and please confirm when we can get these live.
+Thank you
+Tim
+
+
+
+
+Tim Gavin
+Sr. Integrated Media Planner
+Demo Account 24
+-----",https://demo.example.test/tickets/TKT-139,10/14/2026
+Creation/setup of a new campaign,40,TKT-140,Briefing | Industrial Mechanic,resolved,closed,10/6/2026,[demo phone],2026-W41,10/8/2026,10/8/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 37,demo.user045@example.test,Demo Account 07,DEMO-ACC-007,Demo Account 07 - Demo Workspace,Customer Support,Campaign Management,email,email,AdOps - Dependency,Medium,Neutral,external,,SLA -1-Hr,2222.0,miss,2222.0,37.03,38.04,miss,2222.52,37.04,0.0,0.0,0,[demo phone],55.04,Campaign Management,Creation/setup of a new campaign,,0,0,2.29 days,False,"The Industrial Mechanic campaign needs updating according to DIS AG Central Campaigns - Job Details.xlsx: create Version B with the city named twice, use 2 separate UTMs, reduce locations, and set the budget to 500€ for now. Demo User 37 requests a rough go-live timeline today and email confirmation once the changes are complete.",https://demo.example.test/tickets/TKT-140,10/8/2026
+Creation/setup of a new campaign,41,TKT-141,Additional role in Mexico,resolved,closed,8/20/2026,[demo phone],2026-W34,8/27/2026,8/27/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 38,demo.user038@example.test,Demo Account 25,DEMO-ACC-025,Demo Account 25 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,,Sub Category SLA Policies,0.0,hit,289.0,4.82,76.2,miss,1997.29,33.29,18.58,21.83,1,[demo phone],166.7,Campaign Management,Creation/setup of a new campaign,,0,0,5.66 days,False,"Hi Bushra,
+
+I hope you’re doing well.
+
+Here is an additional role that Reckitt would like to sponsor in Mexico
+until the end of the month:
+
+*Role:* HR Operations Analyst (Corporate and Atizapan Factory)
+
+https://careers.reckitt.com/job/Ciudad-de-Mexico-GPS-HR-Operations-Analyst-%28Corporate-&-Atizapan-Factory%29-Ciud-NA/[demo phone]/&utm_source=joveo&utm_medium=conversion&utm_campaign=2601-reckittgbs-joveo-mexico-august-hr-operations-analyst-corporate-and-atizipan-factory&utm_content=hr-operations-analyst-corporate-and-atizipan-factory
+
+Obviously this is an HR role, as opposed to finance, so if this could be
+placed on different publishers that would be helpful.
+
+Could you please let me know once the role is live?
+
+Thanks,
+Leonie Anson (she/her) | Digital Marketing Executive
+
+*demo.contact@example.test <demo.contact@example.test>*
+
+My working hours may not be the same as yours, so please don't feel you
+need to reply to this email outside of your normal working day.",https://demo.example.test/tickets/TKT-141,9/18/2026
+Creation/setup of a new campaign,42,TKT-142,Summit Drilling REQs,resolved,closed,7/17/2026,[demo phone],2026-W29,7/21/2026,8/18/2026,Demo User 04,DEMO-USER-004,Conversation Classification Workflow,Demo User 39,demo.user014@example.test,Demo Account 08,DEMO-ACC-008,Demo Account 08 - Demo Workspace,Customer Support,Default Product 1,email,,AdOps - Dependency,Medium,,external,escalated,Sub Category SLA Policies,28.0,hit,1201.0,20.02,33.02,miss,1921.03,32.02,0.0,0.0,0,[demo phone],98.02,Campaign Management,Creation/setup of a new campaign,,0,0,4.08 days,False,"Hey Joveo team,
+
+I know we have a limited budget left on them, but please work to spend
+whatever we have left for all active Summit Drilling REQs over the weekend,
+we need candidate flow desperately, particular for the Driller's Assistant
+roles. We can increase bids and do 10-mile geo expansions if needed.
+
+Thanks,
+Drew
+
+-- 
+*Demo User 39*
+Demo Account 08 | Recruiting Operations & Client Success
+demo.contact@example.test | office: [demo phone] | http://hoopshr.com/
+
+[image: hoopshr.com] <http://hoopshr.com/>
+*Build Your Winning Team*
+*[image: hoopshr.com] <http://hoopshr.com/> [image:
+https://www.linkedin.com/company/hoops]
+<https://www.linkedin.com/company/hoops> [image: https://x.com/hoopshr]
+<https://x.com/hoopshr> [image: https://www.youtube.com/hoopshr]
+<https://www.youtube.com/hoopshr> [image: https://www.facebook.com/hoopshr]
+<https://www.facebook.com/hoopshr> [image:
+https://www.instagram.com/hoopshrllc/]
+<https://www.instagram.com/hoopshrllc/> [image:
+https://www.tiktok",https://demo.example.test/tickets/TKT-142,9/18/2026
+Creation/setup of a new campaign,43,TKT-143,INC22571390 - Creation of 5 feeds for Demo Account 07medical.fr,resolved,closed,7/29/2026,[demo phone],2026-W31,7/31/2026,8/19/2026,Demo User 02,DEMO-USER-002,Email Integration Bot,Demo User 40,demo.user001@example.test,Demo Account 07,DEMO-ACC-007,Demo Account 07 - Demo Workspace,Customer Support,Default Product 1,email,email,CS - Owned,Medium,Neutral,external,deflected,Sub Category SLA Policies,1080.0,miss,1080.0,18.0,32.42,miss,1885.25,31.42,0.0,0.0,0,[demo phone],49.42,Campaign Management,Creation/setup of a new campaign,,0,0,2.06 days,False,"Hello Team,
+
+We received a new ticket for MojoGO. Please find the ticket details as below.
+
+Number : INC22571390 
+
+Priority : P4
+
+Short description : Creation of 5 feeds for Demo Account 07medical.fr
+
+Description : 
+
+Hello,
+
+I hope you are doing well.
+
+Would it be possible to create five feeds for Demo Account 07medical.fr for the publisher Annonces Médicales ?
+These feeds should maintain the same structure as the current active feed for LHH.fr :
+https://joveo-outbound-feeds-prod.s3-accelerate.amazonaws.com/joveo-7e51b375/8ad29c64/9087486f-08b1-46a8-8f15-2a79b470e133.xml [https://joveo-outbound-feeds-prod.s3-accelerate.amazonaws.com/joveo-7e51b375/8ad29c64/9087486f-08b1-46a8-8f15-2a79b470e133.xml]
+
+Please find below the configuration required for each feed :
+
+- Annonces Médicales 824: Include only jobs with the value ""ADFR_MED_824"" in the <branchCode> node.
+- Annonces Médicales 545: Include only jobs with the value ""ADFR_MED_545"" in the <branchCode> node.
+- Annonces Médicales 544",https://demo.example.test/tickets/TKT-143,9/18/2026
+Creation/setup of a new campaign,44,TKT-144,Subway,resolved,closed,10/1/2026,[demo phone],2026-W40,10/7/2026,10/8/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 31,demo.user033@example.test,Demo Account 05,DEMO-ACC-005,Demo Account 05 - Demo Workspace,Customer Support,Campaign Management,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,32.0,hit,1736.0,28.93,59.48,miss,1736.26,28.94,24.28,4.26,1,[demo phone],141.48,Campaign Management,Creation/setup of a new campaign,,0,0,5.72 days,False,"Subway plans to add $3072 for October, with about $700 in carry-over, and wants a separate campaign for U.S. Manager of Franchise Performance roles. They want new openings (currently 5 positions) automatically added, sponsored on Indeed only, and turned off after 7 days, with these roles excluded from other sites and Indeed excluded from other roles; they’re asking for the best setup approach and note they started setting up Indeed under “NAS for Subway Programmatic” / “subway_pr.”",https://demo.example.test/tickets/TKT-144,10/8/2026
+Creation/setup of a new campaign,45,TKT-145,Subway,resolved,closed,8/15/2026,[demo phone],2026-W33,9/4/2026,9/4/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 31,demo.user033@example.test,Demo Account 05,DEMO-ACC-005,Demo Account 05 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,Sub Category SLA Policies,30.0,hit,658.0,10.97,218.37,miss,1700.87,28.35,183.02,0.0,0,[demo phone],481.37,Campaign Management,Creation/setup of a new campaign,,0,0,20.06 days,False,"Hi Team-
+
+Here are NEW replacement jobs for Subway:
+
+
+07f9 Manager, Marketing Planning & Execution Miami
+8094 Dir- Off-Premises Innovation Sr Miami
+c2ed Head- US Franchisee Performance US Remote
+2196 Sr. Software Engineer, Mobile App Miami
+2168 Sr. Software Engineer Shelton
+2111 Cloud Engineer - Database Miami
+2191 Testing and Automation Engineer Shelton
+fcec Analyst- Financial Systems & Data Shelton
+2171 Sr. Analyst, Customer Analytics Miami
+2112 Sr. Data Engineer Shelton
+2170 Director, Data Engineering Shelton
+
+
+
+Thank you,
+
+Demo Contact 12 | Paid Media Strategy Lead
+[cid:demo.contact@example.test82820]<nasrecruitment.com>
+Independence, Ohio
+Office: [demo phone]
+
+
+-- 
+
+
+
+
+This message (including any attachments) may contain confidential, 
+proprietary, privileged and/or private information. The information is for 
+the use of the individual or entity designated above. If you have received 
+it by mistake, please notify the sender immediately, and delete th",https://demo.example.test/tickets/TKT-145,9/18/2026
+Creation/setup of a new campaign,46,TKT-146,Etihad | Short-Term Cabin Crew Campaign Request,resolved,closed,7/8/2026,[demo phone],2026-W28,7/10/2026,8/18/2026,Demo User 02,DEMO-USER-002,Demo User 02,Demo User 34,demo.user072@example.test,Demo Account 23,DEMO-ACC-023,Demo Account 23 - Demo Workspace,Customer Support,default,slack,slack,AdOps - Dependency,Medium,,external,escalated,Revised SLA,1063.0,miss,1063.0,17.72,29.2,miss,1691.97,28.2,0.0,0.0,0,[demo phone],46.2,Campaign Management,Creation/setup of a new campaign,,0,0,1.92 days,False,"Hi Demo Contact 22,
+
+This is Chaitra from the Joveo Customer Support team. Jumping in on behalf of Nitin and Madhumita on the above request.
+
+We’ve noted your request regarding Etihad’s short-term, low-budget campaign to support cabin crew hiring, along with the recommendation to explore a programmatic job board campaign. We’ll review the top-level requirements you’ve captured internally with the relevant team and confirm if anything else is needed from Etihad at this early conversation stage.
+
+In the meantime, if you have any additional questions or details to share, please feel free to add them to this thread.
+
+Thanks, \
+Chaitra Krishna \
+Joveo Customer Support",https://demo.example.test/tickets/TKT-146,9/18/2026
+Creation/setup of a new campaign,47,TKT-147,"Meta Ads Request | Colton, CA | Sep 22-24",resolved,closed,9/16/2026,[demo phone],2026-W38,9/18/2026,9/18/2026,Demo User 01,DEMO-USER-001,Email Integration Bot,Demo User 41,demo.user016@example.test,Demo Account 18,DEMO-ACC-018,Demo Account 18 - Demo Workspace,,Media Planning,email,email,"High-Priority-Account, No-AI-Assist, demo.contact@example.test",Medium,Neutral,external,,SLA -1-Hr,99.0,miss,73.0,1.22,43.33,miss,1615.04,26.92,9.1,5.81,1,[demo phone],68.83,Campaign Management,Creation/setup of a new campaign,,0,0,2.63 days,False,"A Meta Ads request is associated with Colton, CA, for Sep 22-24. No specific issue, account details, IDs, or requested action are provided.",https://demo.example.test/tickets/TKT-147,9/18/2026
+Creation/setup of a new campaign,48,TKT-148,Metro Health,resolved,closed,8/27/2026,[demo phone],2026-W35,8/31/2026,8/31/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 31,demo.user033@example.test,Demo Account 05,DEMO-ACC-005,Demo Account 05 - Demo Workspace,Customer Support,Default Product 1,email,email,demo.contact@example.test,Medium,Neutral,external,,SLA-SubCategory-V2,3.0,hit,1586.0,26.43,27.43,miss,1586.08,26.43,0.0,0.0,0,[demo phone],92.43,Campaign Management,Creation/setup of a new campaign,,0,0,3.85 days,False,"New jobs.  You can change over right away: September spend $4000.
+
+
+
+Programmatic - Nursing
+Start
+REQ
+Role
+End
+Reason
+8/1/2026
+38324
+RN- 3E Oncology Bone Marrow Transplant
+Replacing 38199
+
+8/1/2026
+37097
+RN- 9W Telemetry
+Replacing 38200
+
+8/1/2026
+38254
+RN- OR
+Replacing 38253
+
+8/1/2026
+38360
+CT Tech
+Replacing 38221
+
+8/1/2026
+37209
+RN Critical Care Step Down 7W
+Replacing 37180
+
+8/1/2026
+35775
+RN  Neuro ICU 6W
+Replacing 37470
+Filled
+8/1/2026
+38204
+RN-Burn ICU-3W
+Replacing 36210
+
+8/1/2026
+38708
+Interventional Speciality Tech- Interventional Radiology
+Replacing 37901
+
+8/1/2026
+38721
+RN Neuro Trauma Recovery Spine 6N OBC
+replacing 36953
+
+8/1/2026
+37960
+RN Corrections
+Replacing 35081
+
+8/1/2026
+38722
+RN- Neuro Trauma Recovery Brain Injury 8N OBC
+Replacing 37935
+Filled
+8/1/2026
+36093
+RN- Float Pool Med/Surg
+Replacing 36997
+Filled
+8/1/2026
+35628
+Respiratory Therapist
+Replacing 37929
+
+8/1/2026
+38196
+RN- Interventional Ra",https://demo.example.test/tickets/TKT-148,9/18/2026
+Creation/setup of a new campaign,49,TKT-149,Joveo Verizon October Req Support List,resolved,closed,9/30/2026,[demo phone],2026-W40,10/6/2026,10/6/2026,Demo User 01,DEMO-USER-001,Email Integration Bot,Demo User 36,demo.user070@example.test,Demo Account 24,DEMO-ACC-024,Demo Account 24 - Demo Workspace,Customer Support,Campaign Management,email,email,"AdOps - Dependency, High-Priority-Account, demo.contact@example.test",Medium,Neutral,external,,SLA -1-Hr,12.0,hit,1454.0,24.23,56.34,miss,1454.81,24.25,3.03,27.06,1,[demo phone],138.34,Campaign Management,Creation/setup of a new campaign,,0,0,1.89 days,False,"Verizon October req support is requested for a 10/1–10/31 flight with a $111,841.72 budget, 95 supported reqs identified in the attached list, app capping of 56–60 apps per req, and a target CPA of $21 or lower. Please review the highlighted reqs, identify any inactive ones and use backups as needed, then confirm setup for the 10/1 launch; revised monthly budgets IOs will follow after October spend is confirmed and will include previously discussed platform fees.",https://demo.example.test/tickets/TKT-149,10/6/2026
+Creation/setup of a new campaign,50,TKT-150,New Jobs Ohio Client,resolved,closed,9/9/2026,[demo phone],2026-W37,9/10/2026,9/10/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 31,demo.user033@example.test,Demo Account 05,DEMO-ACC-005,Demo Account 05 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,,SLA -1-Hr,18.0,hit,1439.0,23.98,24.99,miss,1439.23,23.99,0.0,0.0,0,[demo phone],41.99,Campaign Management,Creation/setup of a new campaign,,0,0,1.75 days,False,"Steel & Obrien is a new Manufacturing client targeting an October launch; ACTIVATE client is NO, with ATS listed as recruiting.myapps.paychex.com/appone and an estimated 3 jobs per month at a $2,400/month budget. They are asking whether jobs can be scraped or require a feed and requesting the tracking pixels for https://www.steelobrien.com/about-us/careers/.",https://demo.example.test/tickets/TKT-150,9/18/2026
+Boost a job,1,TKT-151,Priority roles - 29.07.26,Awaiting Adops Response,in_progress,7/29/2026,[demo phone],2026-W31,,10/15/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 42,demo.user061@example.test,Demo Account 02,DEMO-ACC-002,Demo Account 02 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,escalated,Sub Category SLA Policies,18.0,hit,,,,miss,11514.31,191.91,10.85,648.36,6,[demo phone],1876.04,Campaign Management,Boost a job,,0,0,,False,"Hi Team,
+Greetings!
+Please find below list, we would need your attention on below priority roles.
+Looking forward to your support .
+Requisition ID
+Requisition Name
+25944
+Higher Education Regulatory Subject Matter Expert (Global)
+25946
+MetaCode Product Manager
+25948
+Low-Code Platform Solution Architect
+25906
+Program Manager Finance - UK
+25853
+BDM Manchester
+
+
+Warm Regards
+
+
+[A blue text on a white background  Description automatically generated]<https://Demo Account 02.global/>
+Demo User 42
+Sr. Talent Acquisition Specialist - TA
+Center of ExcDemo User 35ce: 2nd Floor, Plot No. A-67, Sector-64, Noida,
+Gautam Budh Nagar, Uttar Pradesh - 201301, India
+M: [demo phone]/[demo phone]
+E: demo.contact@example.test<mailto:demo.contact@example.test>   W: www.Demo Account 02services.com<http://www.Demo Account 02services.com/>
+
+Disclaimer:
+The following terms shall apply to the recipients of the mails received from Demo Account 02 Services Pvt Ltd. from the ids - Demo Account 02.global. Confidentiality: This email and any files tra",https://demo.example.test/tickets/TKT-151,10/15/2026
+Boost a job,2,TKT-152,San Antonio CDL Instructor,resolved,closed,7/15/2026,[demo phone],2026-W29,8/4/2026,8/19/2026,Demo User 06,DEMO-USER-006,Conversation Classification Workflow,demo.contact@example.test,demo.user005@example.test,Demo Account 26,DEMO-ACC-026,Demo Account 26 - Demo Workspace,,Default Product 1,email,,AdOps - Dependency,Medium,Happy,external,escalated,Sub Category SLA Policies,74.0,miss,486.0,8.1,217.95,miss,6263.95,104.4,0.0,106.55,4,[demo phone],480.95,Campaign Management,Boost a job,,0,0,8.97 days,False,"Good morning,
+
+We haven't received any leads for the San Antonio CDL Instructor since this
+requisition was created.  Can we please check and ensure that we have ads
+running?
+
+Thank you,
+
+*Brad Ball*
+
+*President*
+
+<sub><<don:identity:dvrv-us-1:devo/1Ey2cSeuYY:revu/nQBeI4sw>> sent via Email</sub>",https://demo.example.test/tickets/TKT-152,9/18/2026
+Boost a job,3,TKT-153,Indeed Hosted Jobs,resolved,closed,8/12/2026,[demo phone],2026-W33,9/1/2026,9/1/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 21,demo.user021@example.test,Demo Account 16,DEMO-ACC-016,Demo Account 16 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,resolved,Sub Category SLA Policies,7.0,hit,514.0,8.57,220.19,miss,5521.31,92.02,0.0,121.17,5,[demo phone],483.19,Campaign Management,Boost a job,True,0,0,8.36 days,False,"Good morning Grace,
+
+Can you please send us a list of jobs/reqs for Indeed Hosted Jobs so we can
+keep it fresh.
+
+Thank you!
+
+Yelena
+
+*Yelena Cooke*
+*Director, Customer Success*
+
+[image: Logo] <https://bit.ly/47HROuO>
+
+[image: Logo]  demo.contact@example.test
+[image: email]  [demo phone] <+1+XXX+XXX+XXX>
+[image: phone]  www.joveo.com <https://bit.ly/47HROuO>
+
+[image: In icon] <http://www.linkedin.com/company/joveo/>  [image: X icon]
+<https://bit.ly/484bRU2>  [image: Fb icon] <https://bit.ly/3sUgIZj>  [image:
+Yt icon] <https://bit.ly/3uKzEdp>
+[image: Banner] <https://bit.ly/47HQ6cS>
+
+-- 
+
+
+
+
+This message (including any attachments) may contain confidential, 
+proprietary, privileged and/or private information. The information is for 
+the use of the individual or entity designated above. If you have received 
+it by mistake, please notify the sender immediately, and delete the message 
+and any attachments. Any disclosure, reproduction, distribution or other 
+use of
+
+<sub><don:identity:dvrv-us-1:devo/1Ey2cSeuYY:devu/65> sent via Email</sub>",https://demo.example.test/tickets/TKT-153,9/18/2026
+Boost a job,4,TKT-154,Fw: Cook Ad for Solstice Joliet,resolved,closed,9/14/2026,[demo phone],2026-W38,10/12/2026,10/12/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,demo.contact@example.test,demo.user068@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,35.0,hit,1555.0,25.92,310.05,miss,5429.52,90.49,121.72,87.84,3,[demo phone],672.05,Campaign Management,Boost a job,,0,0,18.08 days,False,"Quality is poor with the current sponsorship for the Cook position at Solstice at Joliet in Joliet, IL. They are requesting a premium sponsorship for job 1008907 (admin job ID 1052555), with a budget of $200-300.",https://demo.example.test/tickets/TKT-154,10/12/2026
+Boost a job,5,TKT-155,US Oncology Campaign Optimization and Performance Review,resolved,closed,7/8/2026,[demo phone],2026-W28,7/20/2026,8/18/2026,Demo User 02,DEMO-USER-002,Demo User 02,Demo User 43,demo.user035@example.test,Demo Account 05,DEMO-ACC-005,Demo Account 05 - Demo Workspace,Customer Support,default,email,app,AdOps - Dependency,Medium,Delighted,external,escalated,Revised SLA,0.0,hit,736.0,12.27,124.94,miss,4433.86,73.9,15.82,31.22,2,[demo phone],288.94,Campaign Management,Boost a job,,0,0,9.99 days,False,"Hi John!
+
+&nbsp;
+
+Hoping you can help me with 2 US Oncology campaigns.
+
+&nbsp;
+
+OHC is recently new in the last week, but has asked about MA with the Breast Surgery department – 40438 and if there is anything we can do to optimize this req to attract more candidates?
+
+&nbsp;
+
+And Shenendoah has been a difficult practice, I see the job is still live, but cannot figure out how to see how much more is left in the campaign? Anything to share with the client on optimizations there as well?
+
+&nbsp;
+
+Thank you!",https://demo.example.test/tickets/TKT-155,9/18/2026
+Boost a job,6,TKT-156,Banfield Critical Markets,resolved,closed,7/15/2026,[demo phone],2026-W29,7/21/2026,8/4/2026,Demo User 01,DEMO-USER-001,Conversation Classification Workflow,Demo User 21,demo.user021@example.test,Demo Account 16,DEMO-ACC-016,Demo Account 16 - Demo Workspace,Customer Support,Default Product 1,email,,AdOps - Dependency,Medium,,external,escalated,Sub Category SLA Policies,8.0,hit,2553.0,42.55,75.05,miss,4353.17,72.55,0.0,0.0,0,[demo phone],165.55,Campaign Management,Boost a job,,0,0,6.90 days,False,"Hi Yelena,
+
+Here is our list of critical markets. These markets are in CRITICAL need to hire Veterinarians.
+
+Confirmed:
+
+  1.  South Carolina
+  2.  San Antonio
+  3.  NJ-Lower NY
+  4.  AZ East
+  5.  Cleveland-Pittsburgh
+  6.  Utah
+
+
+Pending Susan:
+
+  1.  Va Central
+  2.  Va North
+  3.  Coastal Atlantic
+
+I'll see what Susan says about the above markets in our call tomorrow.
+
+Thank you!
+Grace
+
+Demo User 21
+(She/her/hers)
+Employer Branding Sr. Specialist, Talent Acquisition
+[cid:image001.png@01DD1385.231B9050]
+REFER A FRIEND, CLASSMATE, OR SOMEONE IN YOUR NETWORK, and you can make some serious cash when they come to work for us. Everybody wins!
+SHARE YOUR EXPERIENCE WE DARE YOU!  Submit via our Referral Online Form<https://jobs.banfield.com/referral-program>, and see our Referral Program Page<https://jobs.banfield.com/referral-program> for most current information!
+
+ [cid:image002.png@01DD1385.231B9050] <https://www.facebook.com/BanfieldCareers/> [cid:image003.",https://demo.example.test/tickets/TKT-156,9/18/2026
+Boost a job,7,TKT-157,Premium Sponsorship,resolved,closed,9/29/2026,[demo phone],2026-W40,10/9/2026,10/9/2026,Demo User 01,DEMO-USER-001,Email Integration Bot,Demo User 44,demo.user071@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,demo.contact@example.test,Medium,Happy,external,,SLA -1-Hr,2.0,hit,4237.0,70.62,122.41,miss,4237.39,70.62,22.07,25.72,4,[demo phone],238.41,Campaign Management,Boost a job,True,0,0,6.31 days,False,Demo User 44 (demo.contact@example.test) requests premium sponsorship at $50/day for 3 days for the Business Office Director position at https://palms-of-mount-pleasant.oasisrecruit.com/job/1056503/business-office-director-senior-living. She is asking for the sponsorship to be allocated ASAP and for confirmation of the dates.,https://demo.example.test/tickets/TKT-157,10/9/2026
+Boost a job,8,TKT-158,"PPG Campaign Update - 148-USA-Gainesville, TX-Manufacturing",resolved,closed,9/11/2026,[demo phone],2026-W37,9/17/2026,9/17/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 45,demo.user002@example.test,Demo Account 14,DEMO-ACC-014,Demo Account 14 - Demo Workspace,Customer Support,Campaign Management,email,email,"CS - Owned, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,3645.0,miss,3645.0,60.75,62.76,miss,3645.35,60.76,0.0,0.0,0,[demo phone],144.76,Campaign Management,Boost a job,,0,0,6.03 days,False,"PPG requests a campaign boost for evergreen req JR268364, Production Associate, in Gainesville, TX, to support 5 hires; approximately 30 candidates are needed per hire, with 86 active Workday candidates (14 new and 63 leads) currently available. The requested timeline is [demo phone], under reference ID 148-USA-Gainesville, TX-Manufacturing; requester: Black, Hailey [C], demo.contact@example.test.",https://demo.example.test/tickets/TKT-158,9/18/2026
+Boost a job,9,TKT-159,Priority for programmatic,resolved,closed,8/12/2026,[demo phone],2026-W33,8/18/2026,8/18/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 11,demo.user012@example.test,Demo Account 06,DEMO-ACC-006,Demo Account 06 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,escalated,Sub Category SLA Policies,48.0,hit,2038.0,33.97,59.97,miss,3478.32,57.97,0.0,0.0,0,[demo phone],141.97,Campaign Management,Boost a job,,0,0,5.92 days,False,"Hi Nirala - as discussed, these are the 3 that are priority and still not receiving much so would like to explore options. R9703 and R9356 have recently added Coppell, TX as a hiring location option. We are hoping this will help and would like to focus advertising efforts in that market vs Langhorne for those roles. Please let me know if you have any questions. Thanks!
+
+R9879 Collector (On-site) (Open)
+R9703 Default Title Curative Specialist (Open)
+R9356 Title Curative Specialist (Open)
+
+We can pause:
+R10252 Scheduling Coordinator (Open)
+
+
+
+Demo User 11
+​​​​​
+Director Talent Marketing
+[Company Logo]<https://us.content.exclaimer.net?url=https%3A%2F%2FDemo Account 06.com%2F&tenantid=MUtaBqUIEfCOYgANOp61Cw&templateid=577f9e3ddc01f111832e000d3a1d5b2d&excomponentid=rviXAsNTI1-nY8z-UP3ZF9viZe3Yp96IUW3UWQkk3Iw&excomponenttype=Image&signature=Cnh24bBRVahMDeoqPDwIcn_aV6Lbp3OUH180XeF_uFTpQjcEfyZzTaq6hWxajWyW_4mtJniFYqK1PQU8USeO-HMJq9rZJqQUPd1qnS_PqgrYhM1AUTeThN082FxW-hNdUEiB-1JeRDkJFPg-99gN",https://demo.example.test/tickets/TKT-159,9/18/2026
+Boost a job,10,TKT-160,FW: Demo Account 12 weekly job board reqs for posting - week of july 27,resolved,closed,7/27/2026,[demo phone],2026-W31,8/21/2026,8/21/2026,Demo User 01,DEMO-USER-001,Email Integration Bot,Demo User 46,demo.user009@example.test,Demo Account 12,DEMO-ACC-012,Demo Account 12 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,resolved,Sub Category SLA Policies,0.0,hit,136.0,2.27,300.11,miss,3362.61,56.04,0.0,234.57,5,[demo phone],605.61,Campaign Management,Boost a job,,0,0,3.84 days,False,"The customer requests that future emails exclude the TalentAttractionOperations email, instead copying Sarah and Emman Kristoffer D. Sualog for updates regarding Demo Account 12's weekly job board requisitions.",https://demo.example.test/tickets/TKT-160,9/18/2026
+Boost a job,11,TKT-161,FW: Job posting question,resolved,closed,9/4/2026,[demo phone],2026-W36,9/10/2026,9/25/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,demo.contact@example.test,demo.user026@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Happy,external,,SLA -1-Hr,29.0,hit,9.0,0.15,58.04,hit,3358.67,55.98,0.0,0.06,1,[demo phone],140.04,Campaign Management,Boost a job,,0,0,5.83 days,False,"Demo Contact 10 requests a “Standard Sponsorship Expansion” for a job posting. No role details, account information, IDs, dates, or errors are provided; he is asking whether anything else is needed to complete the request.",https://demo.example.test/tickets/TKT-161,9/25/2026
+Boost a job,12,TKT-162,Standard Sponsorship,resolved,closed,10/5/2026,[demo phone],2026-W41,10/9/2026,10/9/2026,Demo User 01,DEMO-USER-001,Email Integration Bot,Demo User 44,demo.user071@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,demo.contact@example.test,Medium,Neutral,external,,SLA -1-Hr,22.0,hit,2899.0,48.32,49.83,miss,2899.5,48.33,0.0,0.0,0,[demo phone],75.33,Campaign Management,Boost a job,,0,0,3.14 days,False,The Facility Operations Assistant position at Aston Gardens at Pelican Demo Account 16h (job ID 1060171) is receiving few applicants. Demo User 47 requests standard sponsorship and asks James for a recommendation on how to proceed.,https://demo.example.test/tickets/TKT-162,10/9/2026
+Boost a job,13,TKT-163,Re: Provincial PSJ Request,resolved,closed,9/2/2026,[demo phone],2026-W36,9/7/2026,9/25/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 47,demo.user015@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Default Product 1,email,email,"No-AI-Assist, demo.contact@example.test",Medium,Neutral,external,,SLA -1-Hr,2151.0,miss,2151.0,35.85,45.02,miss,2611.38,43.52,0.0,0.0,0,[demo phone],118.52,Campaign Management,Boost a job,,0,0,4.94 days,False,"Demo User 59 is following up on a request related to “Provincial PSJ,” but the description provides no additional details about the issue or request. She is asking for an update or response.",https://demo.example.test/tickets/TKT-163,9/25/2026
+Boost a job,14,TKT-164,Spanish CSR: request for support,resolved,closed,7/31/2026,[demo phone],2026-W31,8/4/2026,8/19/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 25,demo.user060@example.test,Demo Account 12,DEMO-ACC-012,Demo Account 12 - Demo Workspace,Customer Support,Default Product 1,email,email,demo.contact@example.test,Medium,Neutral,external,escalated,Sub Category SLA Policies,40.0,hit,1481.0,24.68,44.19,miss,2561.4,42.69,0.0,0.0,0,[demo phone],117.69,Campaign Management,Boost a job,,0,0,4.90 days,False,"Joveo team,
+
+Please sponsor this job through the end of August.
+
+Thank you!
+SM
+
+R-554888 - Associate Customer Service Representative - Spanish, TAGUIG CITY, National Capital Region (Manila) | Demo Account 12<https://www.wellsfargojobs.com/en/jobs/r-554888/associate-customer-service-representative-spanish/>
+
+-- 
+
+
+
+
+This message (including any attachments) may contain confidential, 
+proprietary, privileged and/or private information. The information is for 
+the use of the individual or entity designated above. If you have received 
+it by mistake, please notify the sender immediately, and delete the message 
+and any attachments. Any disclosure, reproduction, distribution or other 
+use of this message or any attachments by an individual or entity other 
+than the designated recipient is strictly prohibited.",https://demo.example.test/tickets/TKT-164,9/18/2026
+Boost a job,15,TKT-165,Re: Sponsorships - Arvum & DSL Arvum,resolved,closed,9/22/2026,[demo phone],2026-W39,10/9/2026,10/9/2026,Demo User 01,DEMO-USER-001,Email Integration Bot,demo.contact@example.test,demo.user026@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,"No-AI-Assist, demo.contact@example.test",Medium,Neutral,external,,SLA -1-Hr,45.0,hit,2527.0,42.12,189.63,miss,2527.6,42.13,137.16,4.34,1,[demo phone],387.63,Campaign Management,Boost a job,,0,0,15.26 days,False,"The request is to start the sponsorships for Arvum and DSL Arvum under Demo Contact 10. Demo User 47 asks for the sponsorships to begin tomorrow; no account IDs, reference numbers, or error details are provided.",https://demo.example.test/tickets/TKT-165,10/9/2026
+Boost a job,16,TKT-166,20/20 Optometric Eye Care REQ,resolved,closed,9/4/2026,[demo phone],2026-W36,9/10/2026,9/10/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 39,demo.user014@example.test,Demo Account 08,DEMO-ACC-008,Demo Account 08 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,,SLA -1-Hr,41.0,hit,1191.0,19.85,60.33,miss,2434.53,40.58,0.0,17.76,1,[demo phone],141.0,Campaign Management,Boost a job,,0,0,4.76 days,False,20/20 Eye Care’s Optometric Scribe position has been live for one week without receiving any applicants. Demo User 39 of Demo Account 08 (demo.contact@example.test) is requesting ASAP guidance on boosting the posting.,https://demo.example.test/tickets/TKT-166,9/18/2026
+Boost a job,17,TKT-167,Professional Transportation In Director of Claims,resolved,closed,8/27/2026,[demo phone],2026-W35,8/31/2026,8/31/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 48,demo.user011@example.test,Demo Account 08,DEMO-ACC-008,Demo Account 08 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,,SLA-SubCategory-V2,37.0,hit,2298.0,38.3,39.82,miss,2298.96,38.32,0.0,0.0,0,[demo phone],113.32,Campaign Management,Boost a job,,0,0,4.72 days,False,"Good Afternoon,
+Blow the budget on this one and get me some qualified candidates quickly
+please
+
+
+
+*Demo User 48*
+Customer Success Manager| Hoops
+demo.contact@example.test | [demo phone] (Voice or Text)
+
+[image: hoopshr.com] <http://hoopshr.com/>
+*Build Your Winning Team*
+*[image: hoopshr.com] <http://hoopshr.com/> [image:
+https://www.linkedin.com/company/hoops]
+<https://www.linkedin.com/company/hoops> [image: https://x.com/hoopshr]
+<https://x.com/hoopshr> [image: https://www.youtube.com/hoopshr]
+<https://www.youtube.com/hoopshr> [image: https://www.facebook.com/hoopshr]
+<https://www.facebook.com/hoopshr> [image:
+https://www.instagram.com/hoopshrllc/]
+<https://www.instagram.com/hoopshrllc/> [image:
+https://www.tiktok.com/@hoopshr] <https://www.tiktok.com/@hoopshr>*
+
+-- 
+
+
+
+
+This message (including any attachments) may contain confidential, 
+proprietary, privileged and/or private information. The information is for 
+the use of the individual or entity desig",https://demo.example.test/tickets/TKT-167,9/18/2026
+Boost a job,18,TKT-168,August Priority Positions,resolved,closed,8/5/2026,[demo phone],2026-W32,10/2/2026,10/2/2026,Demo User 02,DEMO-USER-002,Email Integration Bot,Demo User 49,demo.user057@example.test,Demo Account 27,DEMO-ACC-027,Demo Account 27 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,escalated,Sub Category SLA Policies,29.0,hit,488.0,8.13,663.32,miss,2212.2,36.87,0.0,604.95,3,[demo phone],1412.82,Campaign Management,Boost a job,,0,0,2.66 days,False,"Good afternoon! Here are the August priority positions. We have 65, and a few recruiters are out on PTO, so we might have some more to send you in the next few days. Will that be okay? I wanted to make sure I got most of the positions to you.
+
+Thank you!
+
+Lori Faries
+Talent Acquisition Manager
+14201 Dallas Parkway Dallas, TX 75254
+demo.contact@example.test<mailto:demo.contact@example.test> | www.uspi.com<https://link.zixcentral.com/u/bf908657/-I8icKmB6xGCG3zwhnsoMg?u=https%3A%2F%2Fnam02.safelinks.protection.outlook.com%2F%3Furl%3Dhttp%253A%252F%252Fwww.uspi.com%252F%26data%3D04%257C01%257Cspritt%2540northpointess.com%257C1c3ac4accea4450de54308d8e3c73500%257C39b6756a80584074be440e85623d1d07%257C1%257C0%257C637509792015210392%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C1000%26sdata%3DyoRnp7s5IVmt7oQwP4RgrEQMRi3wc4qJcXD0lJnyNXw%253D%26reserved%3D0>
+[cid:image001.png@01DD242E.8B9F9590]
+
+
+-- 
+
+
+
+
+This message (including any attachments)",https://demo.example.test/tickets/TKT-168,10/3/2026
+Boost a job,19,TKT-169,West updated programmatic Boost,resolved,closed,8/20/2026,[demo phone],2026-W34,8/24/2026,8/24/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 50,demo.user053@example.test,Demo Account 03,DEMO-ACC-003,Demo Account 03 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Happy,external,,Sub Category SLA Policies,945.0,miss,37.0,0.62,31.12,hit,1704.4,28.41,0.0,1.71,1,[demo phone],96.12,Campaign Management,Boost a job,,0,0,3.93 days,False,"Good morning,
+
+Attached is the list for the West. Thank you.
+
+Best regards,
+
+Diana Baima
+Manager - Talent Acquisition
+Tenet Health - California
+
+Tenet Health
+14201 Dallas Pkwy, Dallas, TX 75254
+M ([demo phone]
+demo.contact@example.test<mailto:demo.contact@example.test>
+[TenetLogo_EmailSign]
+[TenetCBOC_EmailSign]
+
+
+-- 
+
+
+
+
+This message (including any attachments) may contain confidential, 
+proprietary, privileged and/or private information. The information is for 
+the use of the individual or entity designated above. If you have received 
+it by mistake, please notify the sender immediately, and delete the message 
+and any attachments. Any disclosure, reproduction, distribution or other 
+use of this message or any attachments by an individual or entity other 
+than the designated recipient is strictly prohibited.",https://demo.example.test/tickets/TKT-169,9/18/2026
+Boost a job,20,TKT-170,1525684 CDL-A Tractor-Trailer Driver – Construction Equ... Texas Auger Boring,resolved,closed,8/31/2026,[demo phone],2026-W36,9/2/2026,9/2/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 48,demo.user011@example.test,Demo Account 08,DEMO-ACC-008,Demo Account 08 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA-SubCategory-V2,130.0,miss,798.0,13.3,32.65,miss,1700.58,28.34,0.0,2.81,1,[demo phone],57.11,Campaign Management,Boost a job,True,0,0,2.26 days,False,"Need bilingual Truckers try hispanic boards please
+
+-- 
+
+
+
+*Demo User 48*
+Customer Success Manager| Hoops
+demo.contact@example.test | [demo phone] (Voice or Text)
+
+[image: hoopshr.com] <http://hoopshr.com/>
+*Build Your Winning Team*
+*[image: hoopshr.com] <http://hoopshr.com/> [image:
+https://www.linkedin.com/company/hoops]
+<https://www.linkedin.com/company/hoops> [image: https://x.com/hoopshr]
+<https://x.com/hoopshr> [image: https://www.youtube.com/hoopshr]
+<https://www.youtube.com/hoopshr> [image: https://www.facebook.com/hoopshr]
+<https://www.facebook.com/hoopshr> [image:
+https://www.instagram.com/hoopshrllc/]
+<https://www.instagram.com/hoopshrllc/> [image:
+https://www.tiktok.com/@hoopshr] <https://www.tiktok.com/@hoopshr>*
+
+-- 
+
+
+
+
+This message (including any attachments) may contain confidential, 
+proprietary, privileged and/or private information. The information is for 
+the use of the individual or entity designated above. If you have received 
+it b",https://demo.example.test/tickets/TKT-170,9/18/2026
+Boost a job,21,TKT-171,Diamond A,resolved,closed,9/2/2026,[demo phone],2026-W36,9/4/2026,9/4/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 48,demo.user011@example.test,Demo Account 08,DEMO-ACC-008,Demo Account 08 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,,SLA -1-Hr,8.0,hit,1695.0,28.25,29.26,miss,1695.86,28.26,0.0,0.0,0,[demo phone],46.26,Campaign Management,Boost a job,,0,0,1.93 days,False,"Diamond A urgently needs heavy equipment operators and diesel mechanics for roles south of I-10 in Dallas. Due to intense oil and gas competition in Texas, they are advertising nationwide and requesting an aggressive campaign budget; contact Demo User 48 at demo.contact@example.test or [demo phone].",https://demo.example.test/tickets/TKT-171,9/18/2026
+Boost a job,22,TKT-172,Premium Sponsorship - Windchime of Marin - DHW - 1009597 (ISL),resolved,closed,10/9/2026,[demo phone],2026-W41,10/13/2026,10/13/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 51,demo.user032@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,"No-AI-Assist, demo.contact@example.test",Medium,Neutral,external,,SLA -1-Hr,5.0,hit,741.0,12.35,29.48,miss,1641.08,27.35,1.13,0.0,0,[demo phone],94.48,Campaign Management,Boost a job,,0,0,3.94 days,False,"A one-time Premium Sponsorship is requested for Windchime of Marin’s Director of Health & Wellness – Senior Living role (job 1060483; ticket reference 1009597 (ISL)). Cap spend at $500, funded from programmatic.",https://demo.example.test/tickets/TKT-172,10/13/2026
+Boost a job,23,TKT-173,Demo Account 20 - Bend Oregon Hot Jobs,resolved,closed,7/21/2026,[demo phone],2026-W30,7/28/2026,8/19/2026,Demo User 04,DEMO-USER-004,Conversation Classification Workflow,Demo User 52,demo.user008@example.test,Demo Account 20,DEMO-ACC-020,Demo Account 20 - Demo Workspace,Customer Support,Default Product 1,email,,CS - Owned,Medium,Neutral,external,escalated,Sub Category SLA Policies,38.0,hit,245.0,4.08,84.66,miss,1632.13,27.2,4.91,49.54,5,[demo phone],183.66,Campaign Management,Boost a job,,0,0,4.21 days,False,"Hi team,
+
+I wanted to highlight some hot jobs at our Demo Account 20 at Mount Bachelor (TBOR community. The first three postings are newer, but the team hasn't seen any applications yet. When should this be flagged as an issue? I understand it takes time to pick up and optimize, what would be considered normal and when should we flag it? I believe the local team needs to adjust the nursing search and I'll work with them on it.
+
+
+
+  *   Lead Line Cook, posting ID 48269, posting date 7/18/26, TBOR
+  *   Dishwasher, posting ID 48251, posting date 7/17/26, TBOR
+  *   Housekeeper, posting ID 48199, posting date 7/16/26, TBOR
+  *   Nurse Assisted Living RN or LPN Full-time, posting ID 40811, posting ID 7/06/26, TBOR - I feel like this title won't work and should split the RN and LPN search. I'll connect with the team on this.
+  *   Move In Coordinator, posting ID 47417, posting date 6/01/26, TBOR
+
+Best regards,
+
+[Demo Account 20 Logo]<http://www.Demo Account 20.com/>
+Demo User 29 talent & hr",https://demo.example.test/tickets/TKT-173,9/18/2026
+Boost a job,24,TKT-174,High Priority job posting,resolved,closed,8/6/2026,[demo phone],2026-W32,8/7/2026,8/19/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 53,demo.user059@example.test,Demo Account 26,DEMO-ACC-026,Demo Account 26 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,escalated,Sub Category SLA Policies,23.0,hit,908.0,15.13,28.14,miss,1628.5,27.14,0.0,0.0,0,[demo phone],45.14,Campaign Management,Boost a job,,0,0,1.88 days,False,"Good afternoon,
+
+I have the below job req that needs additional sponsorship added.
+
+*JR23091 - Dedicated Logistics Manager - Montgomery, AL*
+
+Thank you for your help.
+
+*Demo User 53*
+Talent Acquisition Partner",https://demo.example.test/tickets/TKT-174,9/18/2026
+Boost a job,25,TKT-175,RE: Programmatic Boosted Job Support,resolved,closed,7/17/2026,[demo phone],2026-W29,7/21/2026,8/19/2026,Demo User 05,DEMO-USER-005,Conversation Classification Workflow,Demo User 30,demo.user039@example.test,Demo Account 21,DEMO-ACC-021,Demo Account 21 - Demo Workspace,Customer Support,Default Product 1,email,,AdOps - Dependency,Medium,,external,escalated,Sub Category SLA Policies,45.0,hit,871.0,14.52,27.53,miss,1591.6,26.53,0.0,0.0,0,[demo phone],92.53,Campaign Management,Boost a job,,0,0,3.86 days,False,"Hello,
+
+  Is there any feedback to share on this request?  I have concerns on all campaigns expect Campaign 1 (due to low job volumes) and NWC.  I am seeing the Sponsored Job Counts drop since Tuesday and spend decrease drastically resulting in low application volumes for the team.
+
+Thanks,
+Laura
+
+Demo User 30
+Senior Manager, Operational ExcDemo User 35ce
+TF: [demo phone] x 7050
+Demo Account 21jobs.com/<https://Demo Account 21jobs.com/>
+[A picture containing text, clipart  Description automatically generated]
+
+From: Demo User 30
+Sent: July 16, 2026 7:24 AM
+To: Namrata Swaminathan <demo.contact@example.test>; Sunil Regu <demo.contact@example.test>
+Subject: Programmatic Boosted Job Support
+
+Hi Namrata,
+
+  Please find attached my feedback on jobs requiring additional support:
+
+
+  *   Campaign 1 - no feedback. Job volume is low and jobs are performing well.
+  *   Campaign 2 -Campaign 6 jobs still getting pulled into this job group.
+  *   Campaign 3 - why did spend drop to $0 on Tuesday and Wedne",https://demo.example.test/tickets/TKT-175,9/18/2026
+Boost a job,26,TKT-176,High Priority job posting,resolved,closed,7/31/2026,[demo phone],2026-W31,8/7/2026,8/19/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 53,demo.user059@example.test,Demo Account 26,DEMO-ACC-026,Demo Account 26 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,escalated,Sub Category SLA Policies,2.0,hit,722.0,12.03,76.75,miss,1578.82,26.31,0.0,47.94,1,[demo phone],167.25,Campaign Management,Boost a job,,0,0,1.85 days,False,"Good morning,
+
+I have the below job req that needs additional sponsorship added.
+
+*JR23108 - Dedicated Logistics Manager - Columbus, OH*
+
+Thank you for your help.
+
+*Demo User 53*
+Talent Acquisition Partner",https://demo.example.test/tickets/TKT-176,9/18/2026
+Boost a job,27,TKT-177,Omar's Bistro REQs,resolved,closed,7/24/2026,[demo phone],2026-W30,7/28/2026,8/18/2026,Demo User 02,DEMO-USER-002,Email Integration Bot,Demo User 39,demo.user014@example.test,Demo Account 08,DEMO-ACC-008,Demo Account 08 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,escalated,Sub Category SLA Policies,2.0,hit,860.0,14.33,27.04,miss,1562.42,26.04,0.0,0.0,0,[demo phone],92.04,Campaign Management,Boost a job,,0,0,3.84 days,False,"Hey Joveo team,
+
+For Omar's Bistro's Food Runner & Line Cook REQs, please do whatever is
+necessary to get some additional applicants over the weekend. I know the
+budgets are limited, but just spend whatever is left. We will get
+additional funding from them most likely next week, but want to get some
+additional flow over ASAP.
+
+Thanks,
+
+-- 
+*Demo User 39*
+Demo Account 08 | Recruiting Operations & Client Success
+demo.contact@example.test | office: [demo phone] | http://hoopshr.com/
+
+[image: hoopshr.com] <http://hoopshr.com/>
+*Build Your Winning Team*
+*[image: hoopshr.com] <http://hoopshr.com/> [image:
+https://www.linkedin.com/company/hoops]
+<https://www.linkedin.com/company/hoops> [image: https://x.com/hoopshr]
+<https://x.com/hoopshr> [image: https://www.youtube.com/hoopshr]
+<https://www.youtube.com/hoopshr> [image: https://www.facebook.com/hoopshr]
+<https://www.facebook.com/hoopshr> [image:
+https://www.instagram.com/hoopshrllc/]
+<https://www.instagram.com/hoopshrllc/> [image:
+htt",https://demo.example.test/tickets/TKT-177,9/18/2026
+Boost a job,28,TKT-178,FW: Help with Sage Lake - 6 open Care Manager,resolved,closed,9/9/2026,[demo phone],2026-W37,9/15/2026,9/25/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,demo.contact@example.test,demo.user026@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Happy,external,,SLA -1-Hr,44.0,hit,1459.0,24.32,71.68,miss,1459.58,24.33,44.85,0.0,0,[demo phone],162.18,Campaign Management,Boost a job,,0,0,6.76 days,False,"Demo Contact 10, Senior Talent Acquisition Partner, is requesting help boosting the Sage Lake Care Manager job posting to increase its traffic. The posting is identified in the title as “6 open Care Manager,” and no posting ID, account details, or date were provided.",https://demo.example.test/tickets/TKT-178,9/25/2026
+Boost a job,29,TKT-179,High Priority job posting,resolved,closed,7/22/2026,[demo phone],2026-W30,7/29/2026,8/19/2026,Demo User 04,DEMO-USER-004,Conversation Classification Workflow,Demo User 53,demo.user059@example.test,Demo Account 26,DEMO-ACC-026,Demo Account 26 - Demo Workspace,Customer Support,Default Product 1,email,,AdOps - Dependency,Medium,Neutral,external,escalated,Sub Category SLA Policies,24.0,hit,611.0,10.18,89.78,miss,1380.54,23.01,0.0,63.77,1,[demo phone],188.78,Campaign Management,Boost a job,,0,0,1.71 days,False,"Good afternoon,
+
+I have the below job req that needs additional sponsorship added..
+
+*JR22764 - Dedicated Logistics Manager - Pataskala, OH*
+
+Thank you for your help.
+
+*Demo User 53*
+Talent Acquisition Partner",https://demo.example.test/tickets/TKT-179,9/18/2026
+Boost a job,30,TKT-180,Re: Boost Joveo and Indeed,resolved,closed,8/25/2026,[demo phone],2026-W35,8/27/2026,8/27/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 54,demo.user040@example.test,Demo Account 10,DEMO-ACC-010,Demo Account 10 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,,SLA-SubCategory-V1,55.0,hit,373.0,6.22,22.66,miss,1312.76,21.88,0.0,0.28,1,[demo phone],31.16,Campaign Management,Boost a job,,0,0,1.29 days,False,"GM Karen!
+
+We will get this boosted, let's see how many conversions we get on SuccessFactors as we are concerned how many drivers will go through the lengthy apply process.
+
+@Demo User 01<mailto:demo.contact@example.test> can you give prominence to this role across the different driver boards via programmatic as well as on Indeed.
+
+Thanks so much,
+
+Leah",https://demo.example.test/tickets/TKT-180,9/18/2026
+Boost a job,31,TKT-181,XeteX and CoreCivic REQs,resolved,closed,9/16/2026,[demo phone],2026-W38,9/22/2026,9/22/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 39,demo.user014@example.test,Demo Account 08,DEMO-ACC-008,Demo Account 08 - Demo Workspace,Customer Support,Campaign Management,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,3.0,hit,1294.0,21.57,63.7,miss,1294.89,21.58,40.11,0.0,0,[demo phone],145.7,Campaign Management,Boost a job,,0,0,6.07 days,False,"Demo Account 08 reports little to no flow for over a week on XeteX REQs for CAD Director, HVAC Foreman, Refrigeration Engineer, and Porduction manager roles. They ask Joveo to push these REQs and pull available levers to restore momentum for CoreCivic, as was done a couple of weeks ago.",https://demo.example.test/tickets/TKT-181,9/22/2026
+Boost a job,32,TKT-182,Boost - Langley & Boost - Vancouver,resolved,closed,9/4/2026,[demo phone],2026-W36,9/7/2026,9/7/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 30,demo.user039@example.test,Demo Account 21,DEMO-ACC-021,Demo Account 21 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Frustrated,external,,SLA -1-Hr,18.0,hit,974.0,16.23,22.53,miss,1291.83,21.53,0.0,0.0,0,[demo phone],87.53,Campaign Management,Boost a job,,0,0,3.65 days,False,"Laura requests consistent ongoing sponsorship for the Boost - Langley and Boost - Vancouver job groups for Browns at $75 per location per week. This equates to approximately $300 per month per location, and the sponsorship should be set up or maintained for both locations.",https://demo.example.test/tickets/TKT-182,9/18/2026
+Boost a job,33,TKT-183,Demo Account 20 - Hot jobs 09/03,resolved,closed,9/4/2026,[demo phone],2026-W36,9/7/2026,9/7/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 29,demo.user055@example.test,Demo Account 20,DEMO-ACC-020,Demo Account 20 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, demo.contact@example.test",Medium,Neutral,external,,SLA -1-Hr,49.0,hit,900.0,15.0,21.58,miss,1234.72,20.58,0.0,0.0,0,[demo phone],85.76,Campaign Management,Boost a job,,0,0,3.57 days,False,"Demo Account 20 is requesting that four Appleton, WI positions be added to the hot jobs list: Full Time PM Caregiver/CNA (posting ID 48838), Full Time AM Caregiver/CNA (posting ID 48867), and two PT PM Caregiver/CNA roles with weekend rotation (posting IDs 48834 and 48253). The Appleton location needs to fill at least 6 FTEs urgently.",https://demo.example.test/tickets/TKT-183,9/18/2026
+Boost a job,34,TKT-184,RE: Hot Jobs - 7/20,resolved,closed,7/23/2026,[demo phone],2026-W30,10/15/2026,10/15/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 55,demo.user046@example.test,Demo Account 07,DEMO-ACC-007,Demo Account 07 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,escalated,Sub Category SLA Policies,46.0,hit,217.0,3.62,931.85,miss,1199.99,20.0,15.99,865.87,16,[demo phone],2018.24,Campaign Management,Boost a job,True,0,0,2.34 days,False,"The customer shared a series of email exchanges with Leah Ginter, attaching weekly hot jobs spreadsheets from July 1, 8, 14, and 20, 2026, related to talent acquisition updates.",https://demo.example.test/tickets/TKT-184,10/15/2026
+Boost a job,35,TKT-185,REQs that Need Attention,resolved,closed,7/30/2026,[demo phone],2026-W31,8/3/2026,8/18/2026,Demo User 02,DEMO-USER-002,Email Integration Bot,Demo User 56,demo.user054@example.test,Demo Account 08,DEMO-ACC-008,Demo Account 08 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,escalated,Sub Category SLA Policies,36.0,hit,808.0,13.47,30.97,miss,1168.08,19.47,10.5,0.0,0,[demo phone],95.97,Campaign Management,Boost a job,,0,0,4.00 days,False,"Hi Pranav and Rahul,
+
+Good seeing you both today! Completely forgot to mention that Drew would
+like help with the below (From Drew):
+
+Few specific REQ flow issues if they could please prioritize:
+
+   - Vanguard Renewables - Biogas Operator
+   - Ensimger - Carpenter & Fence Builder REQs
+   - CRI Environmental - Material Handler CDL A Driver in Woodville, WI
+
+
+Thank you!
+
+*Nicole Wendt Houston*
+Marketing & Business Administration Lead | Hoops
+demo.contact@example.test | [demo phone]
+
+[image: hoopshr.com] <http://hoopshr.com/>
+*Build Your Winning Team*
+*[image: hoopshr.com] <http://hoopshr.com/> [image:
+https://www.linkedin.com/company/hoops]
+<https://www.linkedin.com/company/hoops> [image: https://x.com/hoopshr]
+<https://x.com/hoopshr> [image: https://www.youtube.com/hoopshr]
+<https://www.youtube.com/hoopshr> [image: https://www.facebook.com/hoopshr]
+<https://www.facebook.com/hoopshr> [image:
+https://www.instagram.com/hoopshrllc/]
+<https://www.instagram.com/hoo",https://demo.example.test/tickets/TKT-185,9/18/2026
+Boost a job,36,TKT-186,Boosted Jobs - Additional Spend Request,resolved,closed,8/5/2026,[demo phone],2026-W32,8/7/2026,9/3/2026,Demo User 02,DEMO-USER-002,Email Integration Bot,Demo User 30,demo.user039@example.test,Demo Account 21,DEMO-ACC-021,Demo Account 21 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,escalated,Sub Category SLA Policies,12.0,hit,490.0,8.17,23.63,miss,1141.02,19.02,0.0,3.62,1,[demo phone],40.63,Campaign Management,Boost a job,,0,0,1.54 days,False,"Hello,
+
+  Please add an additional $300 to the current 6 boosted jobs; $150 per location where each location has 3 open jobs to spend in the next 10 days.
+
+Langley; 953560, 953559, 953558
+Vancouver; 953557, 953555, 953556
+
+Job spend does not need to be equal per job, please optimize where we are seeing the best CPA.
+
+Thanks,
+Laura
+
+Demo User 30
+Senior Manager, Operational ExcDemo User 35ce
+TF: [demo phone] x 7050
+Demo Account 21jobs.com/<https://Demo Account 21jobs.com/>
+[A picture containing text, clipart  Description automatically generated]
+
+
+
+Disclaimer: This email is intended solely for the person or entity to which it is addressed and may contain confidential and/or privileged information. Any review, dissemination, copying, printing or other use of this email by persons or entities other than the addressee is prohibited. If you have received this email in error, please contact the sender immediately and delete the material from any computer.
+
+-- 
+
+
+
+
+This message (incl",https://demo.example.test/tickets/TKT-186,9/18/2026
+Boost a job,37,TKT-187,Baptist Updated Sponsored Jobs,resolved,closed,9/9/2026,[demo phone],2026-W37,9/11/2026,9/11/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 09,demo.user049@example.test,Demo Account 04,DEMO-ACC-004,Demo Account 04 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,13.0,hit,24.0,0.4,19.56,hit,1104.97,18.42,0.0,0.64,1,[demo phone],28.06,Campaign Management,Boost a job,,0,0,1.14 days,False,"Megan provided an updated list of Sponsored Jobs for Baptist, with several jobs highlighted in green as priority roles for the discussed Google Search test campaign. Review the list and follow up with any questions.",https://demo.example.test/tickets/TKT-187,9/18/2026
+Boost a job,38,TKT-188,Briefing | Revival Cutting Mechanic 2026,resolved,closed,7/7/2026,[demo phone],2026-W28,7/8/2026,8/19/2026,Demo User 05,DEMO-USER-005,Demo User 60,Demo User 37,demo.user045@example.test,Demo Account 07,DEMO-ACC-007,Demo Account 07 - Demo Workspace,Customer Support,default,email,app,AdOps - Dependency,Medium,,external,escalated,Revised SLA,0.0,hit,527.0,8.78,18.67,hit,1089.67,18.16,0.0,0.01,1,[demo phone],27.17,Campaign Management,Boost a job,,0,0,1.13 days,False,"\
+Hi Demo Contact 05, hi Demo Contact 23,
+
+ 
+
+Please implement the campaign as follows:
+
+&nbsp;
+
+- Campaign denomination:\
+  1011_zerspaner_dis-is_18561
+- Budget:\
+  800€/Month (its only 9 Locations, no alternative Job titles).
+- Texts, UTMS, Locations:\
+  [ DIS AG Central Campaigns - Job Details.xlsx](https://inoffice.sharepoint.com/:x:/r/sites/DEAGHMarComOverall/_layouts/15/Doc.aspx?sourcedoc=%7B806D24F5-6B05-4C85-8B2E-7E46A8655E2F%7D&file=DIS%20AG%20Central%20Campaigns%20-%20Job%20Details.xlsx&action=default&mobileredirect=true)
+
+&nbsp;
+
+&nbsp;
+
+Best regards,
+
+Demo User 37
+
+Senior Digital Marketing Manager
+
+ 
+
+**DIS AG**
+
+Industrial Solutions
+
+Fritz-Vomfelde-Str. 26
+
+40547 Düsseldorf
+
+ 
+
+<table style=""min-width: 50px"">
+<colgroup><col style=""min-width: 25px""><col style=""min-width: 25px""></colgroup><tbody><tr><td colspan=""1"" rowspan=""1""><p dir=""auto"">Phone</p></td><td colspan=""1"" rowspan=""1""><p dir=""auto"">[demo phone]</p></td></tr><tr><td colspan=""1"" rowspan=""1""><p dir=""auto"">Mobil</p></td><td colspan=""1"" rowspan=""1""><p dir=""auto"">[demo phone]</p></td></tr><tr><td colspan=""1"" rowspan=""1""><p dir=""auto"">E-Mail</p></td><td colspan=""1"" rowspan=""1""><p dir=""auto""><a rel=""noopener noreferrer nofollow"" target=""_blank"" href=""mailto:demo.contact@example.test"" data-rte-link-editable=""true"">demo.contact@example.test</a></p></td></tr><tr><td colspan=""1"" rowspan=""1""><p dir=""auto"">Internet</p></td><td colspan=""1"" rowspan=""1""><p dir=""auto""><a rel=""noopener noreferrer nofollow"" target=""_blank"" href=""http://www.dis-ag.com"" data-rte-link-editable=""true"">www.dis-ag.com</a></p></td></tr></tbody>
+</table>",https://demo.example.test/tickets/TKT-188,9/18/2026
+Boost a job,39,TKT-189,JR21940 - Transportation Manager - One-Way,resolved,closed,8/15/2026,[demo phone],2026-W33,9/11/2026,9/11/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 57,demo.user030@example.test,Demo Account 26,DEMO-ACC-026,Demo Account 26 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,resolved,Sub Category SLA Policies,3.0,hit,502.0,8.37,301.56,miss,1000.76,16.68,0.0,274.88,1,[demo phone],663.56,Campaign Management,Boost a job,,0,0,3.44 days,False,"Hi Joveo Team,
+
+We have an Evergreen requisition, JR21940, Transportation Manager -
+One-Way, that we need additional sponsorship on. Could we put this in the
+high volume bucket? We have 3 positions tied to this Evergreen that we will
+need to fill.
+
+If we need more budget on this one please let me know.
+
+Thanks,
+
+*Jen Suiter*
+Senior Human Resources Manager – Talent Acquisition",https://demo.example.test/tickets/TKT-189,9/18/2026
+Boost a job,40,TKT-190,JR23584 Account Manager,resolved,closed,9/16/2026,[demo phone],2026-W38,9/17/2026,9/17/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 58,demo.user010@example.test,Demo Account 26,DEMO-ACC-026,Demo Account 26 - Demo Workspace,Customer Support,Campaign Management,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,6.0,hit,970.0,16.17,16.67,miss,970.35,16.17,0.0,0.0,0,[demo phone],25.17,Campaign Management,Boost a job,,0,0,1.05 days,False,"Sponsorship is requested for the Account Manager role, reference JR23584, located in Tampa, FL. The request includes the Werner Workday job posting and contact information for Demo User 58, HR Supervisor – Talent Acquisition, at [demo phone].",https://demo.example.test/tickets/TKT-190,9/18/2026
+Boost a job,41,TKT-191,Sponsor roles for Tracie,resolved,closed,9/14/2026,[demo phone],2026-W38,9/15/2026,9/25/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 44,demo.user071@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,demo.contact@example.test,Medium,Neutral,external,,SLA -1-Hr,9.0,hit,914.0,15.23,15.74,miss,914.52,15.24,0.0,0.0,0,[demo phone],24.24,Campaign Management,Boost a job,,0,0,1.01 days,False,"Request to sponsor two Premium job postings: Executive Director (Senior Living), Job Code: 1009496, and Director of Health & Wellness (RN/LPN), Job Code: 1009466. The requester asks for the sponsorships to be applied and to be contacted with any questions; links and the sender email ms demo.contact@example.test are provided.",https://demo.example.test/tickets/TKT-191,9/25/2026
+Boost a job,42,TKT-192,1510491 CDL-A Driver / Material Handler | No Two Days A...,resolved,closed,7/29/2026,[demo phone],2026-W31,8/3/2026,8/18/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 48,demo.user011@example.test,Demo Account 08,DEMO-ACC-008,Demo Account 08 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,escalated,Sub Category SLA Policies,27.0,hit,0.0,0.0,43.73,hit,904.55,15.08,0.0,27.16,4,[demo phone],117.23,Campaign Management,Boost a job,,0,0,3.74 days,False,"Good Morning  ALl,
+I need this job for CRI in Woodville, Wisconsin, to show results quickly
+
+-- 
+
+
+
+*Demo User 48*
+Customer Success Manager| Hoops
+demo.contact@example.test | [demo phone] (Voice or Text)
+
+[image: hoopshr.com] <http://hoopshr.com/>
+*Build Your Winning Team*
+*[image: hoopshr.com] <http://hoopshr.com/> [image:
+https://www.linkedin.com/company/hoops]
+<https://www.linkedin.com/company/hoops> [image: https://x.com/hoopshr]
+<https://x.com/hoopshr> [image: https://www.youtube.com/hoopshr]
+<https://www.youtube.com/hoopshr> [image: https://www.facebook.com/hoopshr]
+<https://www.facebook.com/hoopshr> [image:
+https://www.instagram.com/hoopshrllc/]
+<https://www.instagram.com/hoopshrllc/> [image:
+https://www.tiktok.com/@hoopshr] <https://www.tiktok.com/@hoopshr>*
+
+-- 
+You received this message because you are subscribed to the Google Groups ""hoopshr"" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to hoopshr+unsubscrib",https://demo.example.test/tickets/TKT-192,9/18/2026
+Boost a job,43,TKT-193,Cook Sponsorship -Provincial,resolved,closed,10/7/2026,[demo phone],2026-W41,10/13/2026,10/13/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 59,demo.user007@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,demo.contact@example.test,Medium,Neutral,external,,SLA -1-Hr,105.0,miss,900.0,15.0,71.46,miss,900.52,15.01,51.11,2.84,1,[demo phone],161.96,Campaign Management,Boost a job,,0,0,6.63 days,False,"The Cook role has received only 2 applicants in 41 days. Demo User 59 is requesting sponsorship for the role at https://solstice-at-guilford.oasisrecruit.com/job/1052730/cook, with a budget of up to $200.",https://demo.example.test/tickets/TKT-193,10/13/2026
+Boost a job,44,TKT-194,Premium Sponsorship,resolved,closed,9/2/2026,[demo phone],2026-W36,9/3/2026,9/25/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 47,demo.user015@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Default Product 1,email,email,"AdOps - Dependency, No-AI-Assist",Medium,Neutral,external,,SLA -1-Hr,12.0,hit,882.0,14.7,15.21,miss,882.69,14.71,0.0,0.0,0,[demo phone],23.71,Campaign Management,Boost a job,True,0,0,0.99 days,False,Request for premium sponsorship at 100/day for 3 days starting tomorrow under Demo Contact 10. The request covers Director of Culinary Services at SummerHouse Alexandria (job 1037638) and Director of Sales (Senior Living) at Addington Place of Muscatine (job 1034283); please arrange the sponsorship.,https://demo.example.test/tickets/TKT-194,9/25/2026
+Boost a job,45,TKT-195,Boost Position,resolved,closed,10/7/2026,[demo phone],2026-W41,10/14/2026,10/14/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 44,demo.user071@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,"No-AI-Assist, demo.contact@example.test",Medium,Delighted,external,,SLA -1-Hr,24.0,hit,615.0,10.25,80.56,miss,871.4,14.52,62.48,1.06,2,[demo phone],171.06,Campaign Management,Boost a job,,0,0,7.08 days,False,"The requester asks whether the Director of Memory Care Programs (Senior Living) position at Discovery Village at Palm Beach Gardens can receive additional promotion. The job is listed at https://discovery-village-at-palm-beach-gardens.oasisrecruit.com/job/1063362/director-of-memory-care-programs-senior-living, and they are asking what further boost options are available.",https://demo.example.test/tickets/TKT-195,10/14/2026
+Boost a job,46,TKT-196,Sponsorship,resolved,closed,9/11/2026,[demo phone],2026-W37,9/11/2026,9/25/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 51,demo.user032@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,AdOps - Dependency,Medium,Neutral,external,,SLA -1-Hr,5.0,hit,840.0,14.0,14.52,miss,840.93,14.02,0.0,0.0,0,[demo phone],23.02,Campaign Management,Boost a job,,0,0,0.96 days,False,"Request for sponsorships for multiple open positions across Standard - Seaton and Standard - DMG. Listed roles include Server, Cook, Care/Medication Technician, Caregiver, and Sous Chef at the linked communities, with job IDs 1044714, 1053462, 716802, 1056827, 1056825, and 1056822; please review and process the sponsorship request.",https://demo.example.test/tickets/TKT-196,9/25/2026
+Boost a job,47,TKT-197,Please sponsor,resolved,closed,10/7/2026,[demo phone],2026-W41,10/8/2026,10/8/2026,Demo User 03,DEMO-USER-003,Email Integration Bot,Demo User 59,demo.user007@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,demo.contact@example.test,Medium,Neutral,external,,SLA -1-Hr,100.0,miss,801.0,13.35,13.86,miss,801.33,13.36,0.0,0.0,0,[demo phone],22.36,Campaign Management,Boost a job,,0,0,0.93 days,False,Requests sponsorship for the Director of Sales position (Job Code: 1008904) at the linked Lake Ridge Village job posting. They can spend up to $200 and are asking for the position to be sponsored.,https://demo.example.test/tickets/TKT-197,10/8/2026
+Boost a job,48,TKT-198,FW: CDI Manager - add to sponsored jobs,resolved,closed,8/25/2026,[demo phone],2026-W35,8/26/2026,8/26/2026,Demo User 04,DEMO-USER-004,Email Integration Bot,Demo User 09,demo.user049@example.test,Demo Account 04,DEMO-ACC-004,Demo Account 04 - Demo Workspace,Customer Support,Default Product 1,email,email,AdOps - Dependency,Medium,Neutral,external,,SLA-SubCategory-V1,12.0,hit,794.0,13.23,13.74,miss,794.19,13.24,0.0,0.0,0,[demo phone],22.24,Campaign Management,Boost a job,,0,0,0.93 days,False,"Pranav,
+
+I am still waiting on April's updated list including the 5-10 priority jobs (I have anther call with her tomorrow), in the meantime, can you please add the job highlighted below to their sponsored jobs campaign?
+
+[A green circle with white text  Description automatically generated with low confidence]<https://bluivygroup.com/>
+Demo User 09
+Sr. Director Employer Brand & Culture
+
+Phone: ([demo phone]
+E-mail: demo.contact@example.test <mailto:demo.contact@example.test >
+Time Zone: Toronto, Canada (Eastern)
+Demo Account 04 | Reimagine the world of work
+
+[uc%3fexport=download&id=1UCk-9-Jh8efW-MhyYDC_5mwE6I9IM9Xm&revid=0B8obZQt3ZPBEWFZwYm1BSG1RbmxWQWk2d0ZycVBRZlhWL1QwPQ]<https://www.linkedin.com/company/blu-ivy-group>[uc%3fexport=download&id=1pIqU1dutS3tSKIX4BzYo_FTQYqYYimD2&revid=0B8obZQt3ZPBEVTcvR2NDZmFZT3FJV2ExbEtIS1l5NEpVMFJrPQ]<https://urldefense.com/v3/__https:/twitter.com/BluIvyGroup__;!!NDLcIA!OLgOaXhB-K1d9HTZ-Iqij0KTsvaBb_YJPfSqBfRln_RsxK0MAoyS-N6Z8L95I2gpLM3VNlb",https://demo.example.test/tickets/TKT-198,9/18/2026
+Boost a job,49,TKT-199,Premium Sponsorship Request – BOD for DMG,resolved,closed,9/2/2026,[demo phone],2026-W36,9/3/2026,9/25/2026,Demo User 05,DEMO-USER-005,Email Integration Bot,Demo User 44,demo.user071@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Default Product 1,email,email,CS-dependency,Medium,Neutral,external,,SLA -1-Hr,6.0,hit,0.0,0.0,13.59,hit,784.35,13.07,0.0,0.02,1,[demo phone],22.09,Campaign Management,Boost a job,,0,0,0.92 days,False,"Request to apply premium sponsorship to the Business Office Director (Senior Living) position at Discovery Village St. Augustine: https://discovery-village-st-augustine.oasisrecruit.com/job/1048198/business-office-director-senior-living. The approved budget is $100/day for 3 days, with sponsorship requested ASAP; Demo User 44 (demo.contact@example.test) asks Joveo to review the position and market and recommend a different investment or approach if warranted.",https://demo.example.test/tickets/TKT-199,9/25/2026
+Boost a job,50,TKT-200,Fw: Posting Boost Needed - DVSB AL,resolved,closed,9/30/2026,[demo phone],2026-W40,10/1/2026,10/1/2026,Demo User 01,DEMO-USER-001,Email Integration Bot,Demo User 44,demo.user071@example.test,Demo Account 17,DEMO-ACC-017,Demo Account 17 - Demo Workspace,Customer Support,Campaign Management,email,email,"No-AI-Assist, demo.contact@example.test",Medium,Neutral,external,,SLA -1-Hr,5.0,hit,779.0,12.98,20.46,miss,779.78,13.0,6.66,0.3,2,[demo phone],28.96,Campaign Management,Boost a job,,0,0,1.19 days,False,"Demo Account 17 is seeking additional candidates for the position referenced in the forwarded request, titled “Posting Boost Needed - DVSB AL.” Demo User 44 (demo.contact@example.test), Senior Director of Talent Acquisition, is asking for the best option to generate more applicants.",https://demo.example.test/tickets/TKT-200,10/1/2026
