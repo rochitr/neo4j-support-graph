@@ -39,7 +39,9 @@ traversal, add `(:Week)` nodes keyed on `weekNo` (14 weeks) in the load step.
   (constant), and the redundant minutes duplicates of the hour columns.
 - **Tags:** 19 tickets have an anonymised email in `Tags` — filtered out. 6 real tags remain.
 - **Only 2 sub-categories exist** (Creation/setup of a new campaign, Boost a job; 50 tickets each) and one category
-  (Campaign Management). Both map to `Campaign-Management` (sections 3A and 3C). Other SOPs have no tickets yet.
+  (Campaign Management). Both sub-categories are linked to the `Campaign-Management` skill via `HANDLED_BY`, but the
+  step-level mapping (`classify.py`, `MATCHES_STEP`) shows the real spread: 62 of the 96 matched tickets map to Campaign Management,
+  14 to Publisher-Channel-Management, 9 to Media-Planning, 11 to six other skills. 4 tickets have no suitable skill.
 - **Missing values:** 2 tickets have no close date/resolution; 8 no sentiment; 9 no source channel; 62 no AI resolution status.
 - **Suspicious metric:** `Resolution Hrs Net` is often much larger than `Resolution (Hrs)` (TKT-101: 444 vs 114).
   Confirm definitions before using either for analysis.
